@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/lily_pad_bottom",
+		"2": "block/lily_pad_roots",
+		"particle": "block/lily_pad",
+		"texture": "block/lily_pad"
+	},
+	"elements": [
+		
+		{
+			"name": "Roots",
+			"from": [0, -15.5, 8.5],
+			"to": [16, -0.5, 8.5],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, -7.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 15], "texture": "#2", "tintindex": -1},
+				"south": {"uv": [0, 0, 16, 15], "texture": "#2", "tintindex": -1}
+			}
+		},
+		{
+			"name": "Roots",
+			"from": [0.5, -15.5, 8.05],
+			"to": [16.5, -0.5, 8.05],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, -7.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 15], "texture": "#2", "tintindex": -1},
+				"south": {"uv": [0, 0, 16, 15], "texture": "#2", "tintindex": -1}
+			}
+		},
+		{
+                        "name": "Lily Pad",
+			"from": [0, -0.5, 0],
+			"to": [16, -0.5, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": -1},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#1", "tintindex": -1}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [-0.5, -1, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "Lily Pad",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+		},
+		12,
+		13,
+		14
+	]
+}

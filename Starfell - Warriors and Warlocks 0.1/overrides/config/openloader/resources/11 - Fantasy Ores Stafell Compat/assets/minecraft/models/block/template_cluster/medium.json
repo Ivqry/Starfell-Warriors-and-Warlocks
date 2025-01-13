@@ -1,0 +1,94 @@
+{
+	"credit": "Model created by Zorak Design - Contact me on discord for work: CesarZorak#0808",
+	"parent": "minecraft:block/template_cluster/zk_cluster",
+	"textures": {
+		"particle": "#phase"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 6, 9.5],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 10, 10, 16], "texture": "#phase"},
+				"east": {"uv": [10, 10, 13, 16], "texture": "#phase"},
+				"south": {"uv": [13, 10, 10, 16], "texture": "#phase"},
+				"west": {"uv": [10, 10, 13, 16], "texture": "#phase"},
+				"up": {"uv": [7, 0, 10, 3], "texture": "#phase"},
+				"down": {"uv": [5, 4, 7, 6], "texture": "#phase", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6.5, 0, 5],
+			"to": [9.5, 5, 8],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 11, 13, 16], "texture": "#phase"},
+				"east": {"uv": [16, 11, 13, 16], "texture": "#phase"},
+				"south": {"uv": [13, 5, 16, 10], "texture": "#phase"},
+				"west": {"uv": [13, 11, 16, 16], "texture": "#phase"},
+				"up": {"uv": [10, 0, 13, 3], "texture": "#phase"},
+				"down": {"uv": [13, 0, 16, 3], "rotation": 180, "texture": "#phase", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6.5, 0, 8],
+			"to": [9.5, 5, 11],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 5, 16, 10], "texture": "#phase"},
+				"east": {"uv": [13, 11, 16, 16], "texture": "#phase"},
+				"south": {"uv": [13, 11, 16, 16], "texture": "#phase"},
+				"west": {"uv": [16, 11, 13, 16], "texture": "#phase"},
+				"up": {"uv": [10, 0, 13, 3], "rotation": 270, "texture": "#phase"},
+				"down": {"uv": [13, 0, 16, 3], "texture": "#phase", "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 0, 6.5],
+			"to": [8, 5, 9.5],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 11, 13, 16], "texture": "#phase"},
+				"east": {"uv": [13, 5, 16, 10], "texture": "#phase"},
+				"south": {"uv": [13, 11, 16, 16], "texture": "#phase"},
+				"west": {"uv": [13, 11, 16, 16], "texture": "#phase"},
+				"up": {"uv": [10, 0, 13, 3], "texture": "#phase"},
+				"down": {"uv": [13, 0, 16, 3], "rotation": 270, "texture": "#phase", "cullface": "down"}
+			}
+		},
+		{
+			"from": [8, 0, 6.5],
+			"to": [11, 5, 9.5],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 11, 16, 16], "texture": "#phase"},
+				"east": {"uv": [16, 11, 13, 16], "texture": "#phase"},
+				"south": {"uv": [16, 11, 13, 16], "texture": "#phase"},
+				"west": {"uv": [13, 5, 16, 10], "texture": "#phase"},
+				"up": {"uv": [10, 0, 13, 3], "rotation": 90, "texture": "#phase"},
+				"down": {"uv": [13, 0, 16, 3], "rotation": 90, "texture": "#phase", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 3.75, 2.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 3.75, 2.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		}
+	}
+}

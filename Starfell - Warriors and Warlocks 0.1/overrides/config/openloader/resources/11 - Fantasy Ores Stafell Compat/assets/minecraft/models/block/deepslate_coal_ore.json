@@ -1,0 +1,9 @@
+{
+  "credit": "Model created by Zorak Design - Contact me on discord for work: CesarZorak#0808",
+  "parent": "minecraft:block/template/zk_ore",
+  "textures": {
+		"block_top": "block/deepslate_top",
+		"block": "block/deepslate",
+		"ore": "block/fantasy_ores/coal_ore"
+  }
+}

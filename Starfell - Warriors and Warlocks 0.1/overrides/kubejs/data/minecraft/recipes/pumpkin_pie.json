@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+	{
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:pumpkin_pie"
+    }
+  ]
+}

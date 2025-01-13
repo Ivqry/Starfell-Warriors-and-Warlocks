@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "bountifulfares:item/honeysuckle_tea_bottle"
+  }
+}

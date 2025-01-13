@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "iOi",
+        "#i#"
+    ],
+    "key": {
+        "#": {
+            "item": "endermanoverhaul:enderman_tooth"
+        },
+        "i": {
+            "item": "create:iron_sheet"
+        },
+        "O": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "endermanoverhaul:corrupted_shield",
+        "count": 1
+    }
+}

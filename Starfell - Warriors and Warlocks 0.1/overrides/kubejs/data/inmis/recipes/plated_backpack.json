@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "IXI",
+    "#I#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "X": {
+      "item": "inmis:frayed_backpack"
+    }
+  },
+  "result": {
+    "item": "inmis:plated_backpack"
+  }
+}

@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"stem": "block/sweet_berry_bush_stem_stage_3",
+		"particle": "block/sweet_berry_bush_stage3",
+		"bush": "block/sweet_berry_bush_stage3"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 14],
+			"to": [15, 14, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [14, 0, 0, 14], "texture": "#bush"},
+				"south": {"uv": [0, 0, 14, 14], "texture": "#bush"}
+			}
+		},
+		{
+			"from": [14, 0, 1],
+			"to": [14, 14, 15],
+			"faces": {
+				"east": {"uv": [0, 0, 14, 14], "texture": "#bush"},
+				"west": {"uv": [14, 0, 0, 14], "texture": "#bush"}
+			}
+		},
+		{
+			"from": [1, 13, 1],
+			"to": [15, 13, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"up": {"uv": [0, 0, 14, 14], "rotation": 180, "texture": "#bush"},
+				"down": {"uv": [14, 0, 0, 14], "texture": "#bush"}
+			}
+		},
+		{
+			"from": [1, 0, 2],
+			"to": [15, 14, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 14, 14], "texture": "#bush"},
+				"south": {"uv": [14, 0, 0, 14], "texture": "#bush"}
+			}
+		},
+		{
+			"from": [2, 0, 1],
+			"to": [2, 14, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"east": {"uv": [14, 0, 0, 14], "texture": "#bush"},
+				"west": {"uv": [0, 0, 14, 14], "texture": "#bush"}
+			}
+		},
+		{
+			"from": [2, 0, 0],
+			"to": [14, 13, 0],
+			"rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 13], "texture": "#stem"},
+				"south": {"uv": [0, 0, 12, 13], "texture": "#stem"}
+			}
+		},
+		{
+			"from": [2, 0, 0],
+			"to": [14, 13, 0],
+			"rotation": {"angle": 45, "axis": "y", "origin": [16, 0, 0], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 13], "texture": "#stem"},
+				"south": {"uv": [0, 0, 12, 13], "texture": "#stem"}
+			}
+		}
+	]
+}

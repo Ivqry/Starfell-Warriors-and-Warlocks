@@ -1,0 +1,9 @@
+{
+	"favorites": [
+		"{mode:\"NOON\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NIGHT\",type:\"roughlyenoughitems:time\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"CLEAR\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

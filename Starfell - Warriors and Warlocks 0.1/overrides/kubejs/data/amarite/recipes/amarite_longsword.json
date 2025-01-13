@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AA",
+    "GBA",
+    "NG "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_sword"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "A": {
+      "item": "amarite:amarite_shard"
+    },
+    "B": {
+      "item": "amarite:amarite_block"
+    }
+  },
+  "result": {
+    "item": "amarite:amarite_longsword"
+  }
+}

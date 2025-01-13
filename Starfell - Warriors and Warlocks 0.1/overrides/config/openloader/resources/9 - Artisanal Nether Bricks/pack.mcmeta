@@ -1,0 +1,7 @@
+{
+   "pack": {
+		"pack_format": 18,
+		"supported_formats": {"min_inclusive": 18, "max_inclusive": 34},
+		"description": [{"text":"Make Nether Bricks Better!","color":"#5a2c34"},{"text":"\nCreated By: @JamieCubed","color":"dark_aqua"}]
+   }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " iS",
+        " Hi",
+        "D  "
+    ],
+    "key": {
+        "i": {
+            "item": "oreganized:silver_ingot"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "S": {
+            "item": "oreganized:silver_nugget"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}

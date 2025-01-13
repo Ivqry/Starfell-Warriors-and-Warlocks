@@ -1,0 +1,25 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"phantasm:pream_berry",
+          "required":false
+       },
+       {
+          "id":"phantasm:oblifruit",
+          "required":false
+       },
+       {
+          "id":"phantasm:chorus_fruit_salad",
+          "required":false
+       },
+       {
+          "id":"phantasm:behemoth_meat",
+          "required":false
+       },
+       {
+          "id":"phantasm:behemoth_steak",
+          "required":false
+       }
+    ]
+}

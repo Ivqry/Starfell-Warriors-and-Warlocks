@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "I",
+        "I"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "kubejs:waystone_key",
+        "count": 1
+    }
+}

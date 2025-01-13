@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "create:copper_sheet"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "ICI",
+    "I I"
+  ],
+  "result": {
+    "item": "paladins:paladin_armor_head"
+  }
+}

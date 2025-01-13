@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [32, 16],
+	"textures": {
+		"0": "block/glow_lichen",
+		"particle": "block/glow_lichen"
+	},
+	"elements": [
+		{
+			"from": [0, 15.9, 0],
+			"to": [16, 15.9, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 15.8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"down": {"uv": [8, 0, 0, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 15.9, -0.9],
+			"to": [16, 15.9, 8.1],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 15.8, 8]},
+			"faces": {
+				"up": {"uv": [16, 0, 8, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 0, 16, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 6.9, 8.1],
+			"to": [16, 15.9, 8.1],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 15.8, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 9], "texture": "#0"},
+				"south": {"uv": [16, 0, 8, 9], "texture": "#0"}
+			}
+		}
+	]
+}

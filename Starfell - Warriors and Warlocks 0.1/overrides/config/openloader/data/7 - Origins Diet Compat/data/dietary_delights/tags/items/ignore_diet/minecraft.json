@@ -1,0 +1,17 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"minecraft:ominous_bottle",
+          "required":false
+       },
+       {
+          "id":"minecraft:potion",
+          "required":false
+       },
+       {
+          "id":"minecraft:milk_bucket",
+          "required":false
+       }
+    ]
+}

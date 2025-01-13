@@ -1,0 +1,13 @@
+{
+    "replace":false,
+    "values":[
+       {
+          "id":"phantasm:behemoth_meat",
+          "required":false
+       },
+       {
+          "id":"phantasm:behemoth_steak",
+          "required":false
+       }
+    ]
+}

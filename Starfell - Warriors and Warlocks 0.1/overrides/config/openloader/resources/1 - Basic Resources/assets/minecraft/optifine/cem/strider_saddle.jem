@@ -1,0 +1,100 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "strider_saddle.png",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -17, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [4, -17, 0],
+			"submodels": [
+				{
+					"id": "anti_r_leg",
+					"invertAxis": "xy",
+					"translate": [-4, 17, 0],
+					"submodels": [
+						{
+							"id": "shell",
+							"invertAxis": "xy",
+							"translate": [4, -3, 0],
+							"submodels": [
+								{
+									"id": "shell_t",
+									"invertAxis": "xy",
+									"translate": [0, -14, 0],
+									"boxes": [
+										{"coordinates": [-10.5, 17.5, -10.5, 21, 12, 21], "textureOffset": [0, 0]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"anti_r_leg.rx": "-right_leg.rx",
+					"anti_r_leg.ry": "-right_leg.ry",
+					"anti_r_leg.ty": "-right_leg.ty-10",
+					"anti_r_leg.rz": "-right_leg.rz",
+					"anti_r_leg.tx": "12"
+				},
+				{
+					"shell.rx": "(sin(var.time*1.5)*limb_speed)/12"
+				}
+			]
+		},
+		{
+			"part": "hair_left_top",
+			"id": "hair_left_top",
+			"invertAxis": "xy",
+			"translate": [8, -29, 8]
+		},
+		{
+			"part": "hair_left_middle",
+			"id": "hair_left_middle",
+			"invertAxis": "xy",
+			"translate": [8, -25, 8]
+		},
+		{
+			"part": "hair_left_bottom",
+			"id": "hair_left_bottom",
+			"invertAxis": "xy",
+			"translate": [8, -20, 8]
+		},
+		{
+			"part": "hair_right_top",
+			"id": "hair_right_top",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [-8, -28, 8]
+		},
+		{
+			"part": "hair_right_middle",
+			"id": "hair_right_middle",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [-8, -24, 8]
+		},
+		{
+			"part": "hair_right_bottom",
+			"id": "hair_right_bottom",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [-8, -19, 8]
+		}
+	]
+}

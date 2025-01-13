@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "create:golden_sheet"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "GTG",
+    "I I"
+  ],
+  "result": {
+    "item": "paladins:crusader_armor_feet"
+  }
+}

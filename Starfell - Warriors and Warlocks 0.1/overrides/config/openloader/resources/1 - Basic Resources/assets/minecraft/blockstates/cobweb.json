@@ -1,0 +1,26 @@
+{
+	"variants": {
+		"": [
+		{ "model": "minecraft:block/cobweb", "weight": 3 },
+		{ "model": "minecraft:block/cobweb1", "weight": 4 },
+		{ "model": "minecraft:block/cobweb1", "weight": 4, "y": 90 },
+		{ "model": "minecraft:block/cobweb1", "weight": 4, "y": 180 },
+		{ "model": "minecraft:block/cobweb1", "weight": 4, "y": 270 },
+		{ "model": "minecraft:block/cobweb2", "weight": 4 },
+		{ "model": "minecraft:block/cobweb2", "weight": 4, "y": 90 },
+		{ "model": "minecraft:block/cobweb2", "weight": 4, "y": 180 },
+		{ "model": "minecraft:block/cobweb2", "weight": 4, "y": 270 },
+		{ "model": "minecraft:block/cobweb3", "weight": 4 },
+		{ "model": "minecraft:block/cobweb3", "weight": 4, "y": 90 },
+		{ "model": "minecraft:block/cobweb3", "weight": 4, "y": 180 },
+		{ "model": "minecraft:block/cobweb3", "weight": 4, "y": 270 },
+		{ "model": "minecraft:block/cobweb4" },
+		{ "model": "minecraft:block/cobweb4", "y": 90 },
+		{ "model": "minecraft:block/cobweb4", "y": 180 },
+		{ "model": "minecraft:block/cobweb4", "y": 270 },
+		{ "model": "minecraft:block/cobweb5" },
+		{ "model": "minecraft:block/cobweb5", "y": 90 },
+		{ "model": "minecraft:block/cobweb5", "y": 180 },
+		{ "model": "minecraft:block/cobweb5", "y": 270 }]
+	}
+}

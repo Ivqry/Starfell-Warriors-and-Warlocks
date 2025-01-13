@@ -1,0 +1,29 @@
+{
+	"levelingSettings": {
+		"skillPointsPerLevelUp": 1,
+		"levelFormula": "stairs(x,0.2,2.4,17,10,25)"
+	},
+	"featureSettings": {
+		"resetOnDeath": false,
+		"itemBreakingEnabled": true,
+		"disableUI": false
+	},
+	"lifecycleSettings": {
+		"healthRegeneration": "ON_EVERY_SECOND"
+	},
+	"advancedSettings": {
+		"restorativeForceTicks": 600,
+		"restorativeForceMultiplier": 110,
+		"expNegationFactor": 95
+	},
+	"visualSettings": {
+		"showLevelOnNameplates": true,
+		"nameplateColor": "#FFFFAA00",
+		"tooltip": "Default"
+	},
+	"soundSettings": {
+		"levelUpVolume": 0,
+		"skillUpVolume": 100,
+		"refundVolume": 100
+	}
+}
