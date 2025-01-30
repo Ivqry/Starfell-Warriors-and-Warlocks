@@ -1,0 +1,11 @@
+[20:59:21] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[20:59:21] [INIT] Loaded plugins:
+[20:59:21] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[20:59:21] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[20:59:21] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[20:59:22] [INFO] Loaded script startup_scripts:durability_tweaks.js in 0.05 s
+[20:59:22] [INFO] Loaded script startup_scripts:food_tweaks.js in 0.004 s
+[20:59:22] [INFO] Loaded script startup_scripts:item_registry.js in 0.002 s
+[20:59:22] [INFO] Loaded script startup_scripts:sounds_create.js in 0.001 s
+[20:59:22] [INFO] Loaded script startup_scripts:stack_tweaks.js in 0.002 s
+[20:59:22] [INFO] Loaded 5/5 KubeJS startup scripts in 0.673 s with 0 errors and 0 warnings

@@ -1,0 +1,9 @@
+[20:59:22] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[20:59:22] [INIT] Loaded plugins:
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[20:59:22] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[20:59:22] [INFO] Loaded script client_scripts:tooltip_tweaks.js in 0.003 s
+[20:59:22] [INFO] Loaded 1/1 KubeJS client scripts in 0.017 s with 0 errors and 0 warnings
+[20:59:42] [INFO] Client resource reload complete!
+[21:04:24] [INFO] Client resource reload complete!
