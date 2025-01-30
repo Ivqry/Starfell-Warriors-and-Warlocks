@@ -1,4 +1,4 @@
-**Starfell: Warriors and Warlocks**
+***Starfell: Warriors and Warlocks***
 
 Starfell: W&W is a feature rich, semi-difficult, medieval RPG modpack, set in the world of Starfell.
 
@@ -6,7 +6,7 @@ Welcome to Starfell: Warriors and Warlocks, the ultimate fantasy RPG modpack tha
 
 With iconic mods like Antique Atlas, EMI, and The Create Mod, you'll enjoy a highly customizable and thrilling experience where the possibilities are endless. Whether you're exploring vast new biomes, casting powerful spells, or battling fierce new monsters, Starfell delivers the perfect blend of gameplay features to keep you coming back for more.
 
-Optimized Performance: Experience smooth gameplay with mods like Sodium, Lithium, C2ME, and Nvidium. Plus, check out our stress test video for system specs here. For more performance tips, refer to the Lunapixel Studios guide, and don’t forget to use GraalVM and custom Java arguments.
+Optimized Performance: Experience smooth gameplay with mods like Sodium, Lithium, C2ME, and Nvidium. Plus, check out our [stress test video](https://youtu.be/EjHKDV5423c?si=aLvoPcspdqXndOdy) for system specs and overview. For more performance tips, refer to the [Lunapixel Studios guide](https://rpg.prominence.wiki/performance-guide), and don’t forget to use GraalVM and custom Java arguments.
 
 Play with Friends: No server needed! Play Starfell with friends through the local world feature.
 
@@ -65,8 +65,8 @@ Credits: Special thanks to raspmary on Discord for KubeJS scripting help and cwb
 
 Starfell: Warriors and Warlocks combines the best of fantasy RPGs and Minecraft into one unforgettable experience. With a massive world to explore, new systems to master, and a wealth of customization options, there’s never been a better time to join the fight—whether you're a mighty warrior or a master warlock.
 
-If you have any issues, report it to our Github Page or the Starlight Studios' Discord Server.
+If you have any issues, report it here or the Starlight Studios' [Discord Server](https://discord.gg/24KnMYdf9).
 
 IMPORTANCE NOTE: Antique Atlas has an incompatibility with Nvidium. To put it short, AA has a bug on multiplayer by not loading new chunks. Please turn off Async BFS in Nvidium if you have an Nvidia GPU. I am unable to change this in the default settings on my own since i dont use an Nvidia GPU. Thank you for your cooperation. ^w^
 
-Embark on your adventure today, and let the stars guide you!
+***Embark on your adventure today, and let the stars guide you!***
