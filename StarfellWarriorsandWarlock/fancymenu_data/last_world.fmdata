@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = true
-  world = starfell-online.modrinth.gg:25565
-}
-
