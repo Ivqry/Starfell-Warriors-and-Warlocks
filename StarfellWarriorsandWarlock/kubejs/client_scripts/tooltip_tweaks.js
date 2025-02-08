@@ -85,7 +85,12 @@ ItemEvents.tooltip(tooltip => {
 	'archers:ranger_armor_head',
 	'archers:ranger_armor_chest',
 	'archers:ranger_armor_legs',
-	'archers:ranger_armor_feet'
+	'archers:ranger_armor_feet',
+	
+	'archers:netherite_ranger_armor_head',
+	'archers:netherite_ranger_armor_chest',
+	'archers:netherite_ranger_armor_legs',
+	'archers:netherite_ranger_armor_feet'
 	], "§7Class: §8Archer")
 	
 //Class: Paladin
@@ -98,7 +103,12 @@ ItemEvents.tooltip(tooltip => {
 	'paladins:crusader_armor_head',
 	'paladins:crusader_armor_chest',
 	'paladins:crusader_armor_legs',
-	'paladins:crusader_armor_feet'
+	'paladins:crusader_armor_feet',
+	
+	'paladins:netherite_crusader_armor_head',
+	'paladins:netherite_crusader_armor_chest',
+	'paladins:netherite_crusader_armor_legs',
+	'paladins:netherite_crusader_armor_feet'
 	], "§7Class: §8Paladin")
 	
 //Class: Holy Priest
@@ -111,7 +121,12 @@ ItemEvents.tooltip(tooltip => {
 	'paladins:prior_robe_head',
 	'paladins:prior_robe_chest',
 	'paladins:prior_robe_legs',
-	'paladins:prior_robe_feet'
+	'paladins:prior_robe_feet',
+	
+	'paladins:netherite_prior_robe_head',
+	'paladins:netherite_prior_robe_chest',
+	'paladins:netherite_prior_robe_legs',
+	'paladins:netherite_prior_robe_feet'
 	], "§7Class: §8Holy Priest")
 	
 //Class: Rogue
@@ -124,7 +139,13 @@ ItemEvents.tooltip(tooltip => {
 	'rogues:assassin_armor_head',
 	'rogues:assassin_armor_chest',
 	'rogues:assassin_armor_legs',
-	'rogues:assassin_armor_feet'
+	'rogues:assassin_armor_feet',
+	
+	'rogues:netherite_assassin_armor_head',
+	'rogues:netherite_assassin_armor_chest',
+	'rogues:netherite_assassin_armor_legs',
+	'rogues:netherite_assassin_armor_feet'
+	
 	], "§7Class: §8Rogue")
 	
 //Class: Berserker
@@ -137,10 +158,15 @@ ItemEvents.tooltip(tooltip => {
 	'rogues:berserker_armor_head',
 	'rogues:berserker_armor_chest',
 	'rogues:berserker_armor_legs',
-	'rogues:berserker_armor_feet'
+	'rogues:berserker_armor_feet',
+	
+	'rogues:netherite_berserker_armor_head',
+	'rogues:netherite_berserker_armor_chest',
+	'rogues:netherite_berserker_armor_legs',
+	'rogues:netherite_berserker_armor_feet'
 	], "§7Class: §8Berserker")
 	
-//Class: Wizard
+//Class: Warlock
   tooltip.add([
 	'wizards:wizard_robe_head',
 	'wizards:wizard_robe_chest',
@@ -160,32 +186,62 @@ ItemEvents.tooltip(tooltip => {
 	'wizards:frost_robe_head',
 	'wizards:frost_robe_chest',
 	'wizards:frost_robe_legs',
-	'wizards:frost_robe_feet'
-	], "§7Class: §8Wizard")
+	'wizards:frost_robe_feet',
+	
+	'wizards:netherite_arcane_robe_head',
+	'wizards:netherite_arcane_robe_chest',
+	'wizards:netherite_arcane_robe_legs',
+	'wizards:netherite_arcane_robe_feet',
+	
+	'wizards:netherite_fire_robe_head',
+	'wizards:netherite_fire_robe_chest',
+	'wizards:netherite_fire_robe_legs',
+	'wizards:netherite_fire_robe_feet',
+	
+	'wizards:netherite_frost_robe_head',
+	'wizards:netherite_frost_robe_chest',
+	'wizards:netherite_frost_robe_legs',
+	'wizards:netherite_frost_robe_feet'
+	], "§7Class: §8Warlock")
 	
 //Class: Frozen Champion
   tooltip.add([
 	'death_knights:frozen_champion_armor_head',
 	'death_knights:frozen_champion_armor_chest',
 	'death_knights:frozen_champion_armor_legs',
-	'death_knights:frozen_champion_armor_feet'
+	'death_knights:frozen_champion_armor_feet',
+	
+	'death_knights:icebound_knight_armor_head',
+	'death_knights:icebound_knight_armor_chest',
+	'death_knights:icebound_knight_armor_legs',
+	'death_knights:icebound_knight_armor_feet'
 	], "§7Class: §8Frozen Champion")
 	
-//Class: Frozen Vampire
+//Class: Vampire
   tooltip.add([
 	'death_knights:crimson_guard_armor_head',
 	'death_knights:crimson_guard_armor_chest',
 	'death_knights:crimson_guard_armor_legs',
-	'death_knights:crimson_guard_armor_feet'
+	'death_knights:crimson_guard_armor_feet',
+	
+	'death_knights:crimson_knight_armor_head',
+	'death_knights:crimson_knight_armor_chest',
+	'death_knights:crimson_knight_armor_legs',
+	'death_knights:crimson_knight_armor_feet'
 	], "§7Class: §8Vampire")
 	
-//Class: Unholy Priest
+//Class: Blightbringer
   tooltip.add([
 	'death_knights:plaguebringer_armor_head',
 	'death_knights:plaguebringer_armor_chest',
 	'death_knights:plaguebringer_armor_legs',
-	'death_knights:plaguebringer_armor_feet'
-	], "§7Class: §8Unholy Priest")
+	'death_knights:plaguebringer_armor_feet',
+	
+	'death_knights:blightbringer_armor_head',
+	'death_knights:blightbringer_armor_chest',
+	'death_knights:blightbringer_armor_legs',
+	'death_knights:blightbringer_armor_feet'
+	], "§7Class: §8Blightbringer")
 	
 //Armor Tier 1
   tooltip.add([
@@ -246,7 +302,6 @@ ItemEvents.tooltip(tooltip => {
 	'minecraft:chainmail_chestplate',
 	'minecraft:chainmail_leggings',
 	'minecraft:chainmail_boots',
-	'minecraft:iron_horse_armor',
 	
 	'rogues:warrior_armor_head',
 	'rogues:warrior_armor_chest',
@@ -339,6 +394,11 @@ ItemEvents.tooltip(tooltip => {
 	'rogues:berserker_armor_legs',
 	'rogues:berserker_armor_feet',
 	
+	'paladins:crusader_armor_head',
+	'paladins:crusader_armor_chest',
+	'paladins:crusader_armor_legs',
+	'paladins:crusader_armor_feet',
+	
 	'friendsandfoes:wildfire_crown',
 	
 	'inmis:withered_backpack'
@@ -351,10 +411,60 @@ ItemEvents.tooltip(tooltip => {
 	'minecraft:netherite_leggings',
 	'minecraft:netherite_boots',
 	
-	'paladins:crusader_armor_head',
-	'paladins:crusader_armor_chest',
-	'paladins:crusader_armor_legs',
-	'paladins:crusader_armor_feet',
+	'death_knights:icebound_knight_armor_head',
+	'death_knights:icebound_knight_armor_chest',
+	'death_knights:icebound_knight_armor_legs',
+	'death_knights:icebound_knight_armor_feet',
+	
+	'death_knights:crimson_knight_armor_head',
+	'death_knights:crimson_knight_armor_chest',
+	'death_knights:crimson_knight_armor_legs',
+	'death_knights:crimson_knight_armor_feet',
+	
+	'death_knights:blightbringer_armor_head',
+	'death_knights:blightbringer_armor_chest',
+	'death_knights:blightbringer_armor_legs',
+	'death_knights:blightbringer_armor_feet',
+	
+	'rogues:netherite_assassin_armor_head',
+	'rogues:netherite_assassin_armor_chest',
+	'rogues:netherite_assassin_armor_legs',
+	'rogues:netherite_assassin_armor_feet',
+	
+	'rogues:netherite_berserker_armor_head',
+	'rogues:netherite_berserker_armor_chest',
+	'rogues:netherite_berserker_armor_legs',
+	'rogues:netherite_berserker_armor_feet',
+	
+	'paladins:netherite_crusader_armor_head',
+	'paladins:netherite_crusader_armor_chest',
+	'paladins:netherite_crusader_armor_legs',
+	'paladins:netherite_crusader_armor_feet',
+	
+	'paladins:netherite_prior_robe_head',
+	'paladins:netherite_prior_robe_chest',
+	'paladins:netherite_prior_robe_legs',
+	'paladins:netherite_prior_robe_feet',
+	
+	'archers:netherite_ranger_armor_head',
+	'archers:netherite_ranger_armor_chest',
+	'archers:netherite_ranger_armor_legs',
+	'archers:netherite_ranger_armor_feet',
+	
+	'wizards:netherite_arcane_robe_head',
+	'wizards:netherite_arcane_robe_chest',
+	'wizards:netherite_arcane_robe_legs',
+	'wizards:netherite_arcane_robe_feet',
+	
+	'wizards:netherite_fire_robe_head',
+	'wizards:netherite_fire_robe_chest',
+	'wizards:netherite_fire_robe_legs',
+	'wizards:netherite_fire_robe_feet',
+	
+	'wizards:netherite_frost_robe_head',
+	'wizards:netherite_frost_robe_chest',
+	'wizards:netherite_frost_robe_legs',
+	'wizards:netherite_frost_robe_feet',
 	
 	'inmis:endless_backpack'
 	], "§7Tier VII")

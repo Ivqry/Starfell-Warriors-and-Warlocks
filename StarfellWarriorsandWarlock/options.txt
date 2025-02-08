@@ -30,8 +30,8 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
-renderDistance:14
+gamma:1.0
+renderDistance:12
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:2
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:3
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","spelunkery:better_vanilla_gems","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","bountifulfares:amendments_res","bountifulfares:farmersdelight_res","bountifulfares:twigs_res","resources/1 - Basic Resources","resources/2 - Enhanced Boss Bars","resources/3 - Mandalas GUI Darkmode","resources/4 - Refined Armor","resources/5 - Icons","resources/6 - French Fonts","resources/7 - Adventurer\u0027s Chest","resources/8 - Starfell Sounds","resources/9 - Artisanal Nether Bricks","resources/10 - Farcr\u0027s Grass Edit","resources/11 - Fantasy Ores Stafell Compat","resources/12 - Piglins Revamped"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","spelunkery:better_vanilla_gems","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","bountifulfares:amendments_res","bountifulfares:farmersdelight_res","bountifulfares:twigs_res","resources/1 - Basic Resources","resources/2 - Enhanced Boss Bars","resources/3 - Mandalas GUI Darkmode","resources/4 - Refined Armor","resources/5 - Icons","resources/6 - French Fonts","resources/7 - Adventurer\u0027s Chest","resources/8 - Starfell Sounds","resources/9 - Artisanal Nether Bricks","resources/10 - Farcr\u0027s Grass Edit","resources/11 - Fantasy Ores Stafell Compat","resources/12 - Piglins Revamped","file/VanillaTweaks Bushy Leaves","enchancement:alternate_gale"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -72,11 +72,11 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
-hideBundleTutorial:false
+joinedFirstServer:true
+hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -100,7 +100,7 @@ key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
-key_key.socialInteractions:key.keyboard.p
+key_key.socialInteractions:key.keyboard.f9
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.mouse.4
 key_key.smoothCamera:key.keyboard.unknown
@@ -173,14 +173,14 @@ key_iris.keybind.toggleShaders:key.keyboard.u
 key_iris.keybind.shaderPackSelection:key.keyboard.f9
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.5016556291390728
-soundCategory_music:0.5035211267605634
+soundCategory_music:0.0
 soundCategory_record:0.5035211267605634
 soundCategory_weather:0.5
 soundCategory_block:0.5035211267605634
 soundCategory_hostile:0.5035211267605634
 soundCategory_neutral:0.5070422535211268
 soundCategory_player:0.5070422535211268
-soundCategory_ambient:0.5
+soundCategory_ambient:0.5070422535211268
 soundCategory_voice:0.5070422535211268
 modelPart_cape:true
 modelPart_jacket:true

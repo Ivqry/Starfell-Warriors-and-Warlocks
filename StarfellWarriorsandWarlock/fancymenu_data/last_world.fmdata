@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/user/AppData/Roaming/ModrinthApp/profiles/StarfellWarriorsandWarlock/saves/Debug World
+  is_server = true
+  world = starfell-online.modrinth.gg:25565
 }
 

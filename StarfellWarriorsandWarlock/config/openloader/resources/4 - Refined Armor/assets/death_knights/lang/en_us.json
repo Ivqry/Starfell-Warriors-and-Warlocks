@@ -40,7 +40,7 @@
     "item.death_knights.frozen_champion_armor_head":        "Helm of the Frozen Champion",
     "item.death_knights.frozen_champion_armor_chest":       "Chestplate of the Frozen Champion",
     "item.death_knights.frozen_champion_armor_legs":        "Legplates of the Frozen Champion",
-    "item.death_knights.frozen_champion_armor_feet":        "Greavees of the Frozen Champion",
+    "item.death_knights.frozen_champion_armor_feet":        "Greaves of the Frozen Champion",
 
     "item.death_knights.plaguebringer_armor_head":          "Mask of the Plaguebringer",
     "item.death_knights.plaguebringer_armor_chest":         "Ribcage of the Plaguebringer",
@@ -51,6 +51,21 @@
     "item.death_knights.crimson_guard_armor_chest":         "Crimson Guard's Breastplate",
     "item.death_knights.crimson_guard_armor_legs":          "Crimson Guard's Legplates",
     "item.death_knights.crimson_guard_armor_feet":          "Crimson Guard's Greaves",
+	
+    "item.death_knights.icebound_knight_armor_head":        "Helm of the Icebound Knight",
+    "item.death_knights.icebound_knight_armor_chest":       "Chestplate of the Icebound Knight",
+    "item.death_knights.icebound_knight_armor_legs":        "Legplates of the Icebound Knight",
+    "item.death_knights.icebound_knight_armor_feet":        "Greaves of the Icebound Knight",
+
+    "item.death_knights.blightbringer_armor_head":          "Mask of the Blightbringer",
+    "item.death_knights.blightbringer_armor_chest":         "Ribcage of the Blightbringer",
+    "item.death_knights.blightbringer_armor_legs":          "Legplates of the Blightbringer",
+    "item.death_knights.blightbringer_armor_feet":          "Greaves of the Blightbringer",
+
+    "item.death_knights.crimson_knight_armor_head":         "Helm of the Crimson Knight",
+    "item.death_knights.crimson_knight_armor_chest":        "Chestplate of the Crimson Knight",
+    "item.death_knights.crimson_knight_armor_legs":         "Legplates of the Crimson Knight",
+    "item.death_knights.crimson_knight_armor_feet":         "Greaves of the Crimson Knight",
 
     "item.death_knights.frost_dk_ring":                     "Ring of the Eternal Winter",
     "item.death_knights.frost_dk_ring.lore":                "Born of death and cold, no one knows where this ancient ring came from.",

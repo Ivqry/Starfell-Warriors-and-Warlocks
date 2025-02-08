@@ -8,7 +8,7 @@
       "tag": "c:silver_ingots"
     },
     {
-      "tag": "c:silver_ingots"
+      "tag": "c:gold_ingots"
     },
     {
       "tag": "c:gold_ingots"
@@ -22,7 +22,8 @@
   ],
   "results": [
     {
-      "item": "oreganized:electrum_ingot"
+      "item": "oreganized:electrum_ingot",
+	  "count": 6
     }
   ],
   "heatRequirement": "superheated",

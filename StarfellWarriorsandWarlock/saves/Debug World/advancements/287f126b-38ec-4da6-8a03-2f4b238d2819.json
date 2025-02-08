@@ -8028,5 +8028,299 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/wrench": {
+    "criteria": {
+      "wrench": "2025-01-31 15:34:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-31 16:45:50 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-31 16:47:47 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-01-31 16:47:50 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/brown_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/gray_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/magenta_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/lime_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/light_blue_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/orange_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/green_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cyan_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/blue_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/black_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/light_gray_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/purple_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/white_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/pink_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/yellow_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/red_canvas_sign": {
+    "criteria": {
+      "has_canvas_sign": "2025-01-31 16:48:28 -0600"
+    },
+    "done": true
+  },
+  "bountifulfares:recipes/misc/red_dye": {
+    "criteria": {
+      "has_tea_berries": "2025-01-31 19:23:47 -0600"
+    },
+    "done": true
+  },
+  "bountifulfares:recipes/misc/ceramic_dish_undying": {
+    "criteria": {
+      "has_item": "2025-01-31 19:32:57 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-01-31 19:36:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-01-31 19:47:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-31 19:47:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:47:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:47:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-31 19:47:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:47:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:47:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:47:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:47:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-01-31 19:47:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-31 19:48:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:48:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:48:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:48:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:48:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:48:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-31 19:48:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-31 19:48:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-31 19:48:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-31 19:48:45 -0600"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-02-05 15:39:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-06 17:00:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-06 17:00:09 -0600"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-02-06 17:49:11 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/charcoal": {
+    "criteria": {
+      "has_item": "2025-02-07 17:07:55 -0600"
+    },
+    "done": true
+  },
+  "bbb:recipes/brazier": {
+    "criteria": {
+      "has_coal": "2025-02-07 17:07:55 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

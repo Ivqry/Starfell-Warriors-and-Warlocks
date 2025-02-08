@@ -129,6 +129,7 @@ mode = "fancy"
 				warden = true
 				mooshroom = true
 				snow_golem = true
+				snowball = true
 
 			[light_sources.settings.entities.naturalist]
 				butterfly = true
@@ -162,6 +163,7 @@ mode = "fancy"
 				hippo = true
 				caterpillar = true
 				lizard_tail = true
+				duck_egg = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
@@ -194,6 +196,7 @@ mode = "fancy"
 				desert_creeper = true
 				badlands_creeper = true
 				mushroom_creeper = true
+				swamp_creeper = true
 
 			[light_sources.settings.entities.endermanoverhaul]
 				savanna_enderman = true
@@ -252,6 +255,7 @@ mode = "fancy"
 				amethyst_shard = true
 				brimstone = true
 				grapple_fishing_bobber = true
+				frozen_player = true
 
 			[light_sources.settings.entities.spelunkery]
 				dust_bunny = true
@@ -264,6 +268,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.spell_engine]
 				spell_projectile = true
+				spell_area_effect = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
