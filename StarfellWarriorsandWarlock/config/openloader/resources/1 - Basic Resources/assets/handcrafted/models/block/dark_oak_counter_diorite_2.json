@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/counter",
-  "textures": {
-    "particle": "minecraft:block/dark_oak_planks",
-    "top": "handcrafted:block/counter/top/diorite",
-    "wood": "handcrafted:block/counter/dark_oak_counter_2"
-  }
-}

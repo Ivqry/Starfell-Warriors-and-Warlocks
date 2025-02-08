@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/table/north_center",
-  "textures": {
-    "particle": "minecraft:block/crimson_planks",
-    "sheet": "handcrafted:block/table/sheet/green_sheet",
-    "wood": "handcrafted:block/table/table/crimson_table"
-  }
-}

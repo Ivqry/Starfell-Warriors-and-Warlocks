@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/counter",
-  "textures": {
-    "particle": "minecraft:block/spruce_planks",
-    "top": "handcrafted:block/counter/top/deepslate",
-    "wood": "handcrafted:block/counter/spruce_counter_3"
-  }
-}

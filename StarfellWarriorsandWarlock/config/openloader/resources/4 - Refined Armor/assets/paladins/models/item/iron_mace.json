@@ -1,6 +1,0 @@
-{
-  "parent": "paladins:item/base/mace",
-  "textures": {
-    "1": "paladins:item/iron_mace"
-  }
-}

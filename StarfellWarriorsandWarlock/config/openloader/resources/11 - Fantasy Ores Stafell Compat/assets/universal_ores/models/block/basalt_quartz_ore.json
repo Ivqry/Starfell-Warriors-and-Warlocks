@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template/zk_crystal",
-  "textures": {
-		"block_top": "block/basalt_top",
-		"block": "block/basalt_side",
-		"crystal_ore": "block/fantasy_ores/quartz_ore"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/side_table",
-  "textures": {
-    "particle": "minecraft:block/acacia_planks",
-    "sheet": "handcrafted:block/table/sheet/white_sheet",
-    "wood": "handcrafted:block/table/side_table/acacia_side_table"
-  }
-}

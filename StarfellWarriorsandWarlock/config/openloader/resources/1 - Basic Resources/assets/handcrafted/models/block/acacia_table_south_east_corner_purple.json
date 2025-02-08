@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/table/south_east_corner",
-  "textures": {
-    "particle": "minecraft:block/acacia_planks",
-    "sheet": "handcrafted:block/table/sheet/purple_sheet",
-    "wood": "handcrafted:block/table/table/acacia_table"
-  }
-}

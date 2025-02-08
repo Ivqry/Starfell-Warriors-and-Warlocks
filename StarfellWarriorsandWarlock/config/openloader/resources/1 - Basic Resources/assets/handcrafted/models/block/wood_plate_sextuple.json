@@ -1,6 +1,0 @@
-{
-  "parent": "handcrafted:block/crockery/plate/sextuple",
-  "textures": {
-    "texture": "handcrafted:block/crockery/wood_crockery"
-  }
-}

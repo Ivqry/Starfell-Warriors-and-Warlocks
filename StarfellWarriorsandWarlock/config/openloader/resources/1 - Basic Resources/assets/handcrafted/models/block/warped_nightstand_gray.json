@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/nightstand",
-  "textures": {
-    "particle": "minecraft:block/warped_planks",
-    "sheet": "handcrafted:block/table/sheet/gray_sheet",
-    "wood": "handcrafted:block/table/nightstand/warped_nightstand"
-  }
-}

@@ -1,7 +1,0 @@
-{
-	"parent": "twigs:block/template_column",
-	"textures": {
-		"side": "twigs:block/deepslate_column",
-		"bottom": "twigs:block/deepslate_column_bottom"
-	}
-}

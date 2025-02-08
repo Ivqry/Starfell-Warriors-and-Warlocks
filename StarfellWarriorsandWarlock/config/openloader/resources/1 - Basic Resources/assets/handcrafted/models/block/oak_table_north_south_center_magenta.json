@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/table/north_south_center",
-  "textures": {
-    "particle": "minecraft:block/oak_planks",
-    "sheet": "handcrafted:block/table/sheet/magenta_sheet",
-    "wood": "handcrafted:block/table/table/oak_table"
-  }
-}

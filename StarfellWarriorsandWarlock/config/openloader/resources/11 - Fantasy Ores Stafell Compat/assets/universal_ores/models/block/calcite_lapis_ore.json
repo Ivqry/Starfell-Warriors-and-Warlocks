@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template/zk_ore",
-  "textures": {
-		"block_top": "block/calcite",
-		"block": "block/calcite",
-		"ore": "block/fantasy_ores/lapis_ore"
-  }
-}

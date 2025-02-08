@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/table/north_west_corner",
-  "textures": {
-    "particle": "minecraft:block/spruce_planks",
-    "sheet": "handcrafted:block/table/sheet/gray_sheet",
-    "wood": "handcrafted:block/table/table/spruce_table"
-  }
-}

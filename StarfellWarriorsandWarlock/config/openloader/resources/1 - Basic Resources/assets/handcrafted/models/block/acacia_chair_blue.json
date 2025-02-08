@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/chair/chair",
-  "textures": {
-    "cushion": "handcrafted:block/chair/cushion/blue_cushion",
-    "particle": "minecraft:block/acacia_planks",
-    "wood": "handcrafted:block/chair/acacia_chair"
-  }
-}

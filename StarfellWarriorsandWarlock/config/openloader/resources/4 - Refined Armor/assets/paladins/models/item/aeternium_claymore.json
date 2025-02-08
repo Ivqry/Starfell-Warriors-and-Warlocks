@@ -1,6 +1,0 @@
-{
-  "parent": "paladins:item/base/claymore_28",
-  "textures": {
-    "layer0": "paladins:item/aeternium_claymore"
-  }
-}
