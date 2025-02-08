@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "tag": "forge:ingots/electrum"
+  },
+  "base": {
+    "item": "nethersdelight:diamond_machete"
+  },
+  "result": {
+    "item": "oreganized:electrum_machete"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "nethersdelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+	"credit": "Model created by Zorak Design - Contact me on discord for work: CesarZorak#0808",
+	"parent": "minecraft:block/template/zk_block",
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.57, 0.57, 0.57]
+		}
+	}
+}

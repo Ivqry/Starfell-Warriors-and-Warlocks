@@ -1,0 +1,29 @@
+{
+  "parent": "farmersdelight:item/mug",
+    "textures": {
+        "layer0": "brewinandchewin:item/strongroot_ale"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.35
+      },
+      "model": "eatinganimation:item/bc_strongroot_ale_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.7
+      },
+      "model": "eatinganimation:item/bc_strongroot_ale_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.9
+      },
+      "model": "eatinganimation:item/bc_strongroot_ale_eating_2"
+    }
+  ]
+}

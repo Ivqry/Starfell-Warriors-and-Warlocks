@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template/zk_ore",
+  "textures": {
+		"block_top": "block/deepslate_top",
+		"block": "block/deepslate",
+		"ore": "block/fantasy_ores/lead_ore"
+  }
+}

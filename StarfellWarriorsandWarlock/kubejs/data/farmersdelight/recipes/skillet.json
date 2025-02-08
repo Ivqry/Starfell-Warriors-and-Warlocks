@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " iI",
+        " Ii",
+        "B  "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "I": {
+            "item": "create:iron_sheet"
+        },
+        "B": {
+            "item": "minecraft:brick"
+        }
+    },
+    "result": {
+        "item": "farmersdelight:skillet",
+        "count": 1
+    }
+}

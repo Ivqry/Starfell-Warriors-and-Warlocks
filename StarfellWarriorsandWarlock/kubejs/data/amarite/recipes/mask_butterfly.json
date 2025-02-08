@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "A": {
+      "tag": "minecraft:flowers"
+    }
+  },
+  "pattern": [
+    " W ",
+    "SAS",
+    " L "
+  ],
+  "result": {
+    "item": "amarite:butterfly_mask"
+  }
+}

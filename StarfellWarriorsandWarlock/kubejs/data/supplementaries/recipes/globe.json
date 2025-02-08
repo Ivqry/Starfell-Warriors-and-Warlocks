@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "gG",
+        "g "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:grass_block"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "supplementaries:globe",
+        "count": 1
+    }
+}

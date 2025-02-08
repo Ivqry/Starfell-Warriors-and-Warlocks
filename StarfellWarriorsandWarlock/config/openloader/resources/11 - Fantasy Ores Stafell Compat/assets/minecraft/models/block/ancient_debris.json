@@ -1,0 +1,10 @@
+{
+  "credit": "Model created by Zorak Design - Contact me on discord for work: CesarZorak#0808",
+  "parent": "minecraft:block/template/zk_debris",
+  "textures": {
+		"block_top": "block/netherrack",
+		"block": "block/netherrack",
+		"ore": "block/fantasy_ores/ancient_debris_top",
+		"ore_side": "block/fantasy_ores/ancient_debris_side"
+  }
+}

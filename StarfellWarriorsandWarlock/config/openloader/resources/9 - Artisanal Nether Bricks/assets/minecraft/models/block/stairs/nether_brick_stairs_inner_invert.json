@@ -1,0 +1,10 @@
+{
+	"credit": "Created by JamieCubed",
+	"parent": "minecraft:block/stairs/misc/inner_stairs_invert",
+	"textures": {
+		"top": "block/nether_bricks_top",
+		"side_tall": "block/nether_bricks",
+		"side_small": "block/nether_bricks",
+		"bottom": "block/nether_bricks"
+	}
+}

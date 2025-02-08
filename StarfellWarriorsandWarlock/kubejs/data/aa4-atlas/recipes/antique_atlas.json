@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "item": "supplementaries:antique_ink"
+        },
+        {
+            "item": "minecraft:map"
+        },
+        {
+            "item": "minecraft:compass"
+        }
+    ],
+    "result": {
+        "item": "aa4-atlas:antique_atlas",
+        "count": 1
+    }
+}

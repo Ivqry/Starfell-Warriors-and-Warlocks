@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecraft:shield"
+    },
+    "M": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    " M ",
+    "MLM",
+    " M "
+  ],
+  "result": {
+    "item": "paladins:diamond_kite_shield"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Created by JamieCubed",
+	"parent": "minecraft:block/walls/misc/template_wall_post",
+	"textures": {
+		"top": "block/red_nether_brick_pillar_top",
+		"post": "block/red_nether_brick_pillar"
+	}
+}

@@ -1,0 +1,40 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "io.ejekta.bountiful.client.BoardScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.spell_engine.spellbinding.SpellBindingScreen": true,
+    "moriyashiine.enchancement.client.screen.EnchantingTableScreen": true,
+    "com.glisco.numismaticoverhaul.client.gui.ShopScreen": true,
+    "net.hecco.bountifulfares.screen.GristmillScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "com.simibubi.create.content.equipment.zapper.terrainzapper.WorldshaperScreen": true,
+    "net.minecraft.class_7744": true,
+    "com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsScreen": true,
+    "com.simibubi.create.content.kinetics.transmission.sequencer.SequencedGearshiftScreen": true,
+    "net.runes.client.RuneCraftingScreen": true,
+    "dev.sterner.brewinandchewin.client.screen.KegScreen": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true
+  },
+  "hideBackground": {
+    "io.ejekta.bountiful.client.BoardScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.spell_engine.spellbinding.SpellBindingScreen": true,
+    "moriyashiine.enchancement.client.screen.EnchantingTableScreen": true,
+    "net.hecco.bountifulfares.screen.GristmillScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "com.simibubi.create.content.equipment.zapper.terrainzapper.WorldshaperScreen": true,
+    "net.minecraft.class_7744": true,
+    "com.simibubi.create.content.kinetics.transmission.sequencer.SequencedGearshiftScreen": true,
+    "com.simibubi.create.content.schematics.client.SchematicPromptScreen": true,
+    "net.runes.client.RuneCraftingScreen": true,
+    "dev.sterner.brewinandchewin.client.screen.KegScreen": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true
+  }
+}

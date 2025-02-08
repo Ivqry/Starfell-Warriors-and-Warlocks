@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "A": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "pattern": [
+    " W ",
+    "SAS",
+    " L "
+  ],
+  "result": {
+    "item": "amarite:moon_mask"
+  }
+}

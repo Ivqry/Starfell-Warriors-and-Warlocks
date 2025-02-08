@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "B B",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "item": "create:item_vault",
+    "count": 4
+  }
+}

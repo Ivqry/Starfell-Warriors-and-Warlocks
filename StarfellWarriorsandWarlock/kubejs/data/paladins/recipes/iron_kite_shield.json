@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecraft:shield"
+    },
+    "M": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    " M ",
+    "MLM",
+    " M "
+  ],
+  "result": {
+    "item": "paladins:iron_kite_shield"
+  }
+}

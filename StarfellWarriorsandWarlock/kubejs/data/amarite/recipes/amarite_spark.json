@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ACA",
+    " B "
+  ],
+  "key": {
+    "C": {
+      "tag": "amarite:spark_core"
+    },
+    "A": {
+      "item": "amarite:amarite_shard"
+    },
+    "B": {
+      "item": "amarite:amarite_block"
+    }
+  },
+  "result": {
+    "item": "amarite:amarite_spark"
+  }
+}

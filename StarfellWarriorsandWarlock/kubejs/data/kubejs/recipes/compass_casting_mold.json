@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:basalt"
+        },
+        "N": {
+            "item": "kubejs:compass_casting_mold"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "kubejs:compass_casting_mold",
+        "count": 2
+    }
+}

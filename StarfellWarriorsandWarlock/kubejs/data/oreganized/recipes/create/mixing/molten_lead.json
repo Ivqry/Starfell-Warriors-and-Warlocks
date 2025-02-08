@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    [
+      {
+        "tag": "c:lead_blocks"
+      },
+      {
+        "tag": "c:raw_lead_blocks"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "fluid": "oreganized:molten_lead",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ]
+}

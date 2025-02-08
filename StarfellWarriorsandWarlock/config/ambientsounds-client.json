@@ -1,0 +1,222 @@
+{
+  "general": {
+    "engines": 0,
+    "volume": 0.7509578466415405,
+    "useSoundMasterSource": false,
+    "scanStepAmount": 100,
+    "playSoundWithOffset": true
+  },
+  "dimensions": {
+    "abyssalcraft": 0,
+    "betweenlands": 0,
+    "cave": 0.7518247961997986,
+    "end": 0.7518247961997986,
+    "galacticraft": 0,
+    "galacticraft.planets": 0,
+    "midnight": 0.7518247961997986,
+    "nether": 0.7481752038002014,
+    "surface": 0.7481752038002014,
+    "twilightforest": 0,
+    "void": 0.7518247961997986
+  },
+  "regions": {
+    "abyssalcraft_dark": {
+      "overall": 1,
+      "suspense.suspense": 1
+    },
+    "end_unknown": {
+      "overall": 0.7526881694793701,
+      "suspense.suspense": 0.7491039633750916
+    },
+    "galacticraft_planets_wind": {
+      "overall": 1,
+      "wind.light-wind": 1
+    },
+    "nether_suspense": {
+      "overall": 0.7492711544036865,
+      "nether": 0.7463557124137878
+    },
+    "twilightforest_unknown": {
+      "overall": 1,
+      "suspense.suspense": 1
+    },
+    "void_dark": {
+      "overall": 0.7526881694793701,
+      "suspense.suspense": 0.7455196976661682
+    },
+    "beach": {
+      "overall": 0.7492063641548157,
+      "beach": 0.7492063641548157,
+      "seagull": 0.7492063641548157,
+      "seagull-long": 0.7523809671401978
+    },
+    "cave_ambience": {
+      "overall": 0.753125011920929,
+      "cave": 0.753125011920929,
+      "cave-water": 0.75,
+      "cave-deep": 0.746874988079071,
+      "cave-large": 0.75
+    },
+    "cave_deep-dark": {
+      "overall": 0.7541528344154358,
+      "deep-dark": 0.7541528344154358,
+      "water-droplets": 0.7508305907249451
+    },
+    "cave": {
+      "overall": 0.7521865963935852
+    },
+    "cave_lush": {
+      "overall": 0.752293586730957,
+      "cave-lush": 0.7492354512214661,
+      "frog": 0.7461773753166199
+    },
+    "cold_artic": {
+      "overall": 0.7538940906524658,
+      "heavy-wind": 0.7538940906524658
+    },
+    "cold": {
+      "overall": 0.7532894611358643,
+      "wind.light-wind": 0.75
+    },
+    "desert": {
+      "overall": 0.7525083422660828,
+      "cicadas-desert": 0.7458193898200989,
+      "wind.light-wind": 0.7458193898200989
+    },
+    "forest_cold": {
+      "overall": 0.7492711544036865,
+      "crow": 0.7492711544036865
+    },
+    "forest": {
+      "overall": 0.7524430155754089,
+      "bird-ambience": 0.7491856813430786,
+      "owl": 0.7524430155754089
+    },
+    "forest_roofed": {
+      "overall": 0.7481203079223633,
+      "bird-ambience-spooky": 0.7481203079223633
+    },
+    "grass": {
+      "overall": 0.7491856813430786,
+      "cricket": 0.7459283471107483,
+      "cricket-night": 0.7524430155754089,
+      "cicadas-night": 0.7524430155754089
+    },
+    "highland": {
+      "overall": 0.7524752616882324,
+      "heavy-wind": 0.7458745837211609,
+      "wind-in-leaves": 0.7458745837211609
+    },
+    "jungle": {
+      "overall": 0.7510548233985901,
+      "cricket-jungle": 0.7510548233985901,
+      "cricket-jungle-night": 0.746835470199585,
+      "bird-ambience-jungle": 0.746835470199585,
+      "bird-ambience-jungle-night": 0.746835470199585
+    },
+    "mesa": {
+      "overall": 0.7461773753166199,
+      "wind-mesa": 0.7461773753166199
+    },
+    "mushroom_fields": {
+      "overall": 0.7480000257492065,
+      "cicadas-mushroom-fields": 0.7480000257492065,
+      "special-mushroom-fields": 0.7480000257492065
+    },
+    "ocean": {
+      "overall": 0.7532894611358643,
+      "ocean": 0.75,
+      "wind.light-wind": 0.7467105388641357
+    },
+    "ocean_deep": {
+      "overall": 0.7521865963935852,
+      "whale": 0.7463557124137878
+    },
+    "plains": {
+      "overall": 0.7524430155754089,
+      "cricket": 0.7491856813430786,
+      "cricket-night": 0.7491856813430786,
+      "cicadas-night": 0.7459283471107483
+    },
+    "rain": {
+      "overall": 0.7492711544036865,
+      "rain": 0.7463557124137878
+    },
+    "savanna": {
+      "overall": 0.7508896589279175,
+      "cricket": 0.7508896589279175,
+      "cicadas": 0.7473309636116028,
+      "cicadas-desert": 0.7473309636116028,
+      "cricket-warm-night": 0.7508896589279175,
+      "wolf": 0.7473309636116028,
+      "long-wolf": 0.7508896589279175,
+      "bird-warm": 0.7508896589279175
+    },
+    "sky": {
+      "overall": 0.7532894611358643,
+      "wind.light-wind": 0.75
+    },
+    "space": {
+      "overall": 0.7492711544036865
+    },
+    "storm_away": {
+      "overall": 0.7492063641548157,
+      "storm-away": 0.7460317611694336,
+      "howling-wind": 0.7460317611694336
+    },
+    "storm_close": {
+      "overall": 0.7476340532302856,
+      "storm-close": 0.7476340532302856,
+      "wind": 0.7476340532302856
+    },
+    "surface": {
+      "overall": 1
+    },
+    "swamp": {
+      "overall": 0.7473309636116028,
+      "cricket-swamp": 0.7473309636116028,
+      "cricket-warm-night": 0.7508896589279175,
+      "frog": 0.754448413848877,
+      "mouring_dove": 0.7508896589279175
+    },
+    "taiga": {
+      "overall": 0.7545126080513,
+      "bird-ambience-huge": 0.7472923994064331
+    },
+    "underwater": {
+      "overall": 0.7491409182548523,
+      "underwater": 0.7525773048400879,
+      "underwater-deep": 0.7491409182548523
+    },
+    "underworld": {
+      "overall": 0.7492260336875916,
+      "underworld": 0.7523219585418701
+    },
+    "warden": {
+      "overall": 0.7463557124137878,
+      "warden": 0.7463557124137878
+    }
+  },
+  "categories": {
+    "animal": {
+      "animal": 0.752212405204773,
+      "bird": {
+        "bird": 0.754601240158081,
+        "bird_day": 0.7484662532806396,
+        "bird_night": 0.7484662532806396
+      },
+      "cicadas": 0.7492625117301941,
+      "cricket": {
+        "cricket": 0.7483870983123779,
+        "cricket_day": 0.7548387050628662,
+        "cricket_night": 0.7548387050628662
+      }
+    },
+    "cave": 0.7485207319259644,
+    "weather": 0.7514792680740356,
+    "wind": 0.7514792680740356
+  },
+  "fade-volume": 0.005,
+  "fade-pitch": 0.005,
+  "silent-dimensions": []
+}

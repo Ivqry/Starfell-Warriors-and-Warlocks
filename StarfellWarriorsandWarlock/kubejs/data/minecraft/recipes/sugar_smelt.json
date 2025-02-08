@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:sweet_berries"
+    },
+    "result": "minecraft:sugar",
+    "experience": 0.5,
+    "cookingtime": 100
+}

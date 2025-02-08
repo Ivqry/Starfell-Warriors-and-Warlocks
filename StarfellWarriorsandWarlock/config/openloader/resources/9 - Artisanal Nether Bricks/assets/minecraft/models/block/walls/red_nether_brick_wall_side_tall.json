@@ -1,0 +1,8 @@
+{
+	"credit": "Created by JamieCubed",
+	"parent": "minecraft:block/walls/misc/template_wall_side_tall",
+	"textures": {
+		"top": "block/red_nether_bricks",
+		"wall": "block/red_nether_bricks"
+	}
+}
