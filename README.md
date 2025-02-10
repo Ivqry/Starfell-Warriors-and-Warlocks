@@ -69,4 +69,6 @@ If you have any issues, report it here or the Starlight Studios' [Discord Server
 
 IMPORTANCE NOTE: Antique Atlas has an incompatibility with Nvidium. To put it short, AA has a bug on multiplayer by not loading new chunks. Please turn off Async BFS in Nvidium if you have an Nvidia GPU. I am unable to change this in the default settings on my own since i dont use an Nvidia GPU. Thank you for your cooperation. ^w^
 
+- [Modrinth Page](https://modrinth.com/modpack/starfell) -
+
 ***Embark on your adventure today, and let the stars guide you!***
