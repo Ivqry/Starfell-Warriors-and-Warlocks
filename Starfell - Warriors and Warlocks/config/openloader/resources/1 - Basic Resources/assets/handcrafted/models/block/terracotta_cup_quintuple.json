@@ -1,6 +1,0 @@
-{
-  "parent": "handcrafted:block/crockery/cup/quintuple",
-  "textures": {
-    "texture": "handcrafted:block/crockery/terracotta_crockery"
-  }
-}

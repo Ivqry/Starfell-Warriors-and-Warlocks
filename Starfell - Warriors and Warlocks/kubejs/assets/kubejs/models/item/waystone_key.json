@@ -1,6 +1,0 @@
-{
-	"parent": "supplementaries:item/key",
-	"textures": {
-		"layer0": "kubejs:item/waystone_key"
-	}
-}

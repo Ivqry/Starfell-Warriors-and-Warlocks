@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/desk",
-  "textures": {
-    "particle": "minecraft:block/crimson_planks",
-    "sheet": "handcrafted:block/table/sheet/cyan_sheet",
-    "wood": "handcrafted:block/table/desk/crimson_desk"
-  }
-}

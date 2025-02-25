@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template/zk_crystal",
-  "textures": {
-		"block_top": "block/diorite",
-		"block": "block/diorite",
-		"crystal_ore": "block/fantasy_ores/diamond_ore"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "handcrafted:block/crockery/plate/triple",
-  "textures": {
-    "texture": "handcrafted:block/crockery/yellow_crockery"
-  }
-}

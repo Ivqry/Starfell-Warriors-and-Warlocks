@@ -1,7 +1,0 @@
-{
-  "parent": "handcrafted:block/dining_bench/single",
-  "textures": {
-    "particle": "minecraft:block/mangrove_planks",
-    "wood": "handcrafted:block/dining_bench/mangrove_dining_bench"
-  }
-}

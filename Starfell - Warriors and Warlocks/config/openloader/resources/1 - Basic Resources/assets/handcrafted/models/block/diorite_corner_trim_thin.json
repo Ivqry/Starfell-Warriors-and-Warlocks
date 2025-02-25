@@ -1,6 +1,0 @@
-{
-  "parent": "handcrafted:block/trim/thin_corner_trim",
-  "textures": {
-    "texture": "handcrafted:block/trim/corner/diorite_corner_trim_thin"
-  }
-}

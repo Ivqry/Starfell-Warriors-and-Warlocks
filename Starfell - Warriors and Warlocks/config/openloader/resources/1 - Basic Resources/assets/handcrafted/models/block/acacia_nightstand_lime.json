@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/nightstand",
-  "textures": {
-    "particle": "minecraft:block/acacia_planks",
-    "sheet": "handcrafted:block/table/sheet/lime_sheet",
-    "wood": "handcrafted:block/table/nightstand/acacia_nightstand"
-  }
-}

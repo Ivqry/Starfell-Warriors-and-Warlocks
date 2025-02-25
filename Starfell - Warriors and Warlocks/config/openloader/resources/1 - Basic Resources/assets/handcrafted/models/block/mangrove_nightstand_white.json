@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/nightstand",
-  "textures": {
-    "particle": "minecraft:block/mangrove_planks",
-    "sheet": "handcrafted:block/table/sheet/white_sheet",
-    "wood": "handcrafted:block/table/nightstand/mangrove_nightstand"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template/zk_crystal",
-  "textures": {
-		"block_top": "block/andesite",
-		"block": "block/andesite",
-		"crystal_ore": "block/fantasy_ores/emerald_ore"
-  }
-}

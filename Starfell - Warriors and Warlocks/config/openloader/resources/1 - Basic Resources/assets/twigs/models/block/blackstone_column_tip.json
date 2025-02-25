@@ -1,8 +1,0 @@
-{
-	"parent": "twigs:block/template_column_tip",
-	"textures": {
-		"side": "twigs:block/blackstone_column_tip",
-		"bottom": "twigs:block/blackstone_column_bottom",
-		"top": "twigs:block/blackstone_column_top"
-	}
-}

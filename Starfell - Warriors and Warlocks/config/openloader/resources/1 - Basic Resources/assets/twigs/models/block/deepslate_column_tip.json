@@ -1,8 +1,0 @@
-{
-	"parent": "twigs:block/template_column_tip",
-	"textures": {
-		"side": "twigs:block/deepslate_column_tip",
-		"bottom": "twigs:block/deepslate_column_bottom",
-		"top": "twigs:block/deepslate_column_top"
-	}
-}

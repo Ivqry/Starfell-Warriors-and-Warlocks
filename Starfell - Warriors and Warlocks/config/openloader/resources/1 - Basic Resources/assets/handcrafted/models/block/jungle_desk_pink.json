@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/desk",
-  "textures": {
-    "particle": "minecraft:block/jungle_planks",
-    "sheet": "handcrafted:block/table/sheet/pink_sheet",
-    "wood": "handcrafted:block/table/desk/jungle_desk"
-  }
-}

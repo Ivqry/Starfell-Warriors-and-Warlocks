@@ -1,6 +1,0 @@
-{
-  "parent": "farmersdelight:item/mug",
-  "textures": {
-    "layer0": "bountifulfares:item/black_tea_bottle"
-  }
-}

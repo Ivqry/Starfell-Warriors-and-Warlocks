@@ -1,8 +1,0 @@
-{
-  "parent": "handcrafted:block/counter",
-  "textures": {
-    "particle": "minecraft:block/cherry_planks",
-    "top": "handcrafted:block/counter/top/warped_planks",
-    "wood": "handcrafted:block/counter/cherry_counter_2"
-  }
-}
