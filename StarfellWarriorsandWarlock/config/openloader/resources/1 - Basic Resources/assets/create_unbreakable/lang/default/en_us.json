@@ -1,0 +1,8 @@
+{
+  "itemGroup.create_unbreakable": "Soul Steel",
+  "item.create_unbreakable.irromolding": "Awakened Soul Steel Ingot",
+  "item.create_unbreakable.philolite" : "Dormant Soul Steel Ingot",
+  "item.create_unbreakable.luminarchy" : "Ectoplasm",
+  "block.create_unbreakable.philolite_block" : "Philolite block",
+  "block.create_unbreakable.luminarchy_block" : "Luminarchy block"
+}

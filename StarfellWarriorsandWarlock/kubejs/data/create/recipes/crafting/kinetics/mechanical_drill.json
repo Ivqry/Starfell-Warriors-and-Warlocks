@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+	"G": {
+      "item": "create:iron_sheet"
+    },
+	"S": {
+      "item": "create:iron_sheet"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "pattern": [
+    " S ",
+    "GSG",
+    "ACA"
+  ],
+  "result": {
+    "item": "create:mechanical_drill"
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"credit": "Created by JamieCubed",
+	"textures": {
+		"particle": "#side_tall"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 8],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#side_small", "cullface": "north"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#side_small", "cullface": "east"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#side_small", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 8], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 8], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [8, 8, 16],
+			"faces": {
+				"south": {"uv": [0, 8, 8, 16], "texture": "#side_small", "cullface": "south"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#side_small", "cullface": "west"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#top"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [8, 0, 8],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#side_tall"},
+				"east": {"uv": [0, 0, 8, 16], "texture": "#side_tall", "cullface": "east"},
+				"south": {"uv": [8, 0, 16, 16], "texture": "#side_tall", "cullface": "south"},
+				"west": {"uv": [8, 0, 16, 16], "texture": "#side_tall"},
+				"up": {"uv": [8, 8, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+  "screen.modpack-update-checker.modpack-update.title": "Log Perubahan",
+  "screen.modpack-update-checker.info.title": "Info",
+  "screen.modpack-update-checker.hotfix.downloading-text": "Pengunduhan %s/%s %s %s%% Selesai",
+  "screen.modpack-update-checker.hotfix.title": "Perbaikan terbaru",
+  "screen.modpack-update-checker.hotfix.estimated-time": "Perkiraan waktu tersisa: %s:%s:%s",
+  "screen.modpack-update-checker.hotfix.select-all": "Pilih Semua",
+  "screen.modpack-update-checker.hotfix.deselect-all": "Unpilih Semua",
+  "screen.modpack-update-checker.editor.title": "Editor",
+  "screen.modpack-update-checker.editor.migrate-config": "Konfigurasi Migrasi",
+  "screen.modpack-update-checker.editor.debug": "Info Debug",
+  "screen.modpack-update-checker.editor.reload": "Config Reload",
+  "toast.modpack-update-checker.modpack-update-available": "Pembaruan Modpack Tersedia",
+  "toast.modpack-update-checker.modpack-update-available.description": "%s -> %s",
+  "button.modpack-update-checker.changelog-button": "Log Perubahan",
+  "button.modpack-update-checker.changelog-button.update-available": "Update Tersedia",
+  "screen.modpack-update-checker.changelog.date-time-format": "ISO_LOCAL_DATE",
+  "screen.modpack-update-checker.hotfix.hotfix-applied.description": "Anda mungkin perlu me-restart permainan.",
+  "title.modpack-update-checker": "Modpack Update Checker"
+}

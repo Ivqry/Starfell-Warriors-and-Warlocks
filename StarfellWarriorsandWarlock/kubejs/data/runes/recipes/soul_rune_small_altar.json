@@ -1,0 +1,13 @@
+{
+  "type": "runes:crafting",
+  "base": {
+    "item": "minecraft:cobbled_deepslate"
+  },
+  "addition": {
+    "item": "create:experience_nugget"
+  },
+  "result": {
+    "count": 8,
+    "item": "runes:soul_stone"
+  }
+}

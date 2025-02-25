@@ -1,0 +1,10 @@
+{
+	"credit": "Created by JamieCubed",
+	"parent": "minecraft:block/walls/misc/wall_inventory",
+	"textures": {
+		"post_top": "block/nether_brick_pillar_top",
+		"post_side": "block/nether_brick_pillar",
+		"wall_top": "block/nether_brick_wall_top",
+		"wall_side": "block/nether_brick_wall"
+	}
+}

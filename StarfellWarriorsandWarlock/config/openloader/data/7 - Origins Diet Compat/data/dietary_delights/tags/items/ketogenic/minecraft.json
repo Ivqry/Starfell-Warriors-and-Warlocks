@@ -1,0 +1,21 @@
+{
+    "replace":false,
+    "values":[
+       "minecraft:porkchop",
+       "minecraft:cooked_porkchop",
+       "minecraft:beef",
+       "minecraft:cooked_beef",
+       "minecraft:mutton",
+       "minecraft:cooked_mutton",
+       "minecraft:chicken",
+       "minecraft:cooked_chicken",
+       "#minecraft:fishes",
+       "minecraft:sweet_berries",
+       "minecraft:glow_berries",
+       "minecraft:beetroot_seeds",
+       "minecraft:carrot",
+       "minecraft:golden_carrot",
+       "minecraft:potato",
+       "minecraft:baked_potato"
+    ]
+}

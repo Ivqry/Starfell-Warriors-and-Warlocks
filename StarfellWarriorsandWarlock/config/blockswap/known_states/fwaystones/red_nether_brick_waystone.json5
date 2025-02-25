@@ -1,0 +1,1538 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "true",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "upper",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "true",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mossy": "false",
+			"half": "lower",
+			"generated": "false",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "fwaystones:red_nether_brick_waystone"
+	}
+]

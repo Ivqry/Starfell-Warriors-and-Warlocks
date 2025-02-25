@@ -1,0 +1,38 @@
+{
+  "title.modpack-update-checker": "模組包更新檢查器",
+
+  "screen.modpack-update-checker.modpack-update.title": "更新日誌",
+  "screen.modpack-update-checker.modpack-update.currentVersion-null": "currentVersion 為空！",
+  "screen.modpack-update-checker.modpack-update.latestVersion-null": "latestVersion 為空！",
+  "screen.modpack-update-checker.modpack-update.changelogs-null": "changelogs 為空！",
+  "screen.modpack-update-checker.modpack-update.modpackName-null": "modpackName 為空！",
+  "screen.modpack-update-checker.modpack-update.up-to-date": "您已經是最新版本了 ^_^",
+  "screen.modpack-update-checker.info.title": "信息",
+
+  "screen.modpack-update-checker.hotfix.downloading-text": "下載中 %s/%s %s %s%% 完成",
+  "screen.modpack-update-checker.hotfix.title": "熱修補",
+  "screen.modpack-update-checker.hotfix.estimated-time": "預計剩餘時間：%s:%s:%s",
+  "screen.modpack-update-checker.hotfix.select-all": "全選",
+  "screen.modpack-update-checker.hotfix.deselect-all": "取消全選",
+  "screen.modpack-update-checker.hotfix.apply-hotfix": "應用熱修補",
+  "screen.modpack-update-checker.hotfix.hotfix-applied": "熱修補已應用",
+  "screen.modpack-update-checker.hotfix.hotfix-applied.description": "您可能需要重新啟動遊戲。",
+  "screen.modpack-update-checker.hotfix.no-leaving": "在熱修補程式被套用之前，您不能離開此螢幕。",
+
+  "toast.modpack-update-checker.modpack-update-available": "模組包更新可用",
+  "toast.modpack-update-checker.modpack-update-available.description": "%s -> %s",
+
+  "toast.modpack-update-checker.hotfix-available": "熱修補可用",
+  "toast.modpack-update-checker.hotfix-available.description": "在模組包菜單中安裝。",
+
+  "button.modpack-update-checker.changelog-button": "更新日誌",
+  "button.modpack-update-checker.changelog-button.update-available": "有更新可用",
+
+  "screen.modpack-update-checker.changelog.date-time-format": "ISO_LOCAL_DATE",
+  "screen.modpack-update-checker.changelog.to-be-announced": "發布日期：TBA",
+  "screen.modpack-update-checker.changelog.releasingOn": "發布日期：%s",
+  "screen.modpack-update-checker.changelog.releasedAt": "發布日期：%s",
+
+  "command.mpuc.error.invalid-hotfix": "%s 不是有效的熱修補",
+  "command.mpuc.error.hotfix-already-queued": "%s 已經在排隊中"
+}

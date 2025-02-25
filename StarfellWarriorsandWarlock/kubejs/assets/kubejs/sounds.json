@@ -1,0 +1,17 @@
+{
+	"spawner.spawn": {
+        "sounds": [
+            "kubejs:spawning/spawn1",
+			"kubejs:spawning/spawn2",
+			"kubejs:spawning/spawn3",
+			"kubejs:spawning/spawn4"
+        ],
+        "subtitle": "Mob spawns from spawner"
+    },
+	"wither.theme": {
+        "sounds": [
+			"kubejs:wither/boss"
+        ],
+        "subtitle": "Wither advances"
+	}
+}

@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "oreganized:silver_ingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "kubejs:silver_core"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "oreganized:silver_ingot"
+        },
+        {
+          "item": "oreganized:silver_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "oreganized:silver_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "oreganized:silver_ingot"
+        },
+        {
+          "item": "minecraft:diamond"
+        }
+      ],
+      "results": [
+        {
+          "item": "oreganized:silver_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "oreganized:silver_ingot"
+        },
+        {
+          "item": "oreganized:silver_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "oreganized:silver_ingot"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "oreganized:silver_ingot"
+  }
+}

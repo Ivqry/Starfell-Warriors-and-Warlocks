@@ -1,0 +1,7 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "amarite:item/mirror_frame",
+    "layer1": "amarite:item/mirror_inside"
+  }
+}

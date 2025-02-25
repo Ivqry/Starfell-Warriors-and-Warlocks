@@ -1,0 +1,133 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "brewinandchewin:beer",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:vodka",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:mead",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:rice_wine",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:egg_grog",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:strongroot_ale",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:saccharine_rum",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:pale_jane",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:dread_nog",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:salty_folly",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:steel_toe_stout",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:glittering_grenadine",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:bloody_mary",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:red_rum",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:withering_dross",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:kombucha",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:kimchi",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:jerky",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:pickled_pickles",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:kippers",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:cocoa_fudge",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:flaxen_cheese_wedge",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:scarlet_cheese_wedge",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:fiery_fondue",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:quiche_slice",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:vegetable_omelet",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:cheesy_pasta",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:creamy_onion_soup",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:scarlet_pierogies",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:horror_lasagna",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:pizza_slice",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:ham_and_cheese_sandwich",
+            "required": false
+        }
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "kubejs:reinforced_chain_links"
+    },
+    "I": {
+      "item": "kubejs:reinforced_iron_ingot"
+    },
+    "S": {
+      "item": "kubejs:reinforced_iron_sheet"
+    }
+  },
+  "pattern": [
+    "SIS",
+    "X X"
+  ],
+  "result": {
+    "item": "kubejs:reinforced_chainmail_helm"
+  }
+}

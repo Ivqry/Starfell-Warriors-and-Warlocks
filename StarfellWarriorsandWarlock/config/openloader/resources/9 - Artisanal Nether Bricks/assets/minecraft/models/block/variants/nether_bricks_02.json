@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/nether_bricks_02",
+    "side": "minecraft:block/nether_bricks_02",
+    "top": "minecraft:block/nether_bricks_top_02"
+  }
+}

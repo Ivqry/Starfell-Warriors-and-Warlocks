@@ -1,0 +1,12 @@
+{
+  "textures": [
+    "minecraft:reverse_portal_part_1",
+    "minecraft:reverse_portal_part_2",
+    "minecraft:reverse_portal_part_3",
+    "minecraft:reverse_portal_part_4",
+    "minecraft:reverse_portal_part_3",
+    "minecraft:reverse_portal_part_2",
+    "minecraft:reverse_portal_part_1",
+    "minecraft:reverse_portal_part_0"
+  ]
+}

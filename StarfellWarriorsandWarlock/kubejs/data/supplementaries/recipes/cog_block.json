@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "cog_block"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "131",
+    "323",
+    "131"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:copper_ingot"
+    },
+    "3": {
+      "item": "create:cogwheel"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "supplementaries:cog_block",
+    "count": 12
+  }
+}

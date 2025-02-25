@@ -1,0 +1,13 @@
+{
+    "type": "runes:crafting",
+    "base": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "addition": {
+      "tag": "death_knights:rune_crafting/reagent/unholy_medium"
+    },
+    "result": {
+      "count": 16,
+      "item": "death_knights:unholy_stone"
+    }
+  }

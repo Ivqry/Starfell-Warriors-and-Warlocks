@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#e#",
+    "eXe",
+    "#e#"
+  ],
+  "key": {
+    "#": {
+      "item": "kubejs:silver_core"
+    },
+    "X": {
+      "item": "inmis:gilded_backpack"
+    },
+    "e": {
+      "item": "oreganized:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "inmis:bejeweled_backpack"
+  }
+}

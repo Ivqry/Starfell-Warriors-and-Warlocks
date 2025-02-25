@@ -1,0 +1,18 @@
+{
+  "encoded_palette": true,
+  "asset_name": "zinc",
+  "description": {
+    "color": "#b9e9c1",
+    "translations": [
+      {
+         "lang": "en_us",
+         "string": "Zinc Material"
+      },
+      {
+         "lang": "en_uk",
+         "string": "Zinc Material"
+      }
+   ]
+  },
+  "ingredient": "create:zinc_ingot"
+}

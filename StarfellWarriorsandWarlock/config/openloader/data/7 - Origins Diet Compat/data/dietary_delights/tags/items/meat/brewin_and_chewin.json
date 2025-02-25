@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "brewinandchewin:jerky",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:kippers",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:ham_and_cheese_sandwich",
+            "required": false
+        }
+	]
+}

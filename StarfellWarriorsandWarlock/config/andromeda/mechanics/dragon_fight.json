@@ -1,0 +1,11 @@
+{
+  "bootstrap": {
+    "enabled": true
+  },
+  "main": {
+    "respawnCrystals": true,
+    "scaleHealthByMaxPlayers": true,
+    "shorterCrystalTrackRange": false,
+    "shorterSpikes": false
+  }
+}

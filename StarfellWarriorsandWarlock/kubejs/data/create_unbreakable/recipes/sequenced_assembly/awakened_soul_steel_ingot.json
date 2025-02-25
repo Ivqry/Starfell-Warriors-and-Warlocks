@@ -1,0 +1,81 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_unbreakable:philolite"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "create_unbreakable:irromolding"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_unbreakable:philolite"
+        },
+        {
+          "item": "create_unbreakable:luminarchy"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_unbreakable:philolite"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_unbreakable:philolite"
+        },
+        {
+          "item": "minecraft:dragon_breath"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_unbreakable:philolite"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_unbreakable:philolite"
+        },
+        {
+          "item": "create_unbreakable:luminarchy"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_unbreakable:philolite"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_unbreakable:philolite"
+        },
+        {
+          "item": "minecraft:dragon_breath"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_unbreakable:philolite"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create_unbreakable:philolite"
+  }
+}

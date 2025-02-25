@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+      {
+          "id": "minecraft:bread",
+          "required": false
+      },
+      {
+          "id": "minecraft:potato",
+          "required": false
+      },
+      {
+          "id": "minecraft:baked_potato",
+          "required": false
+      },
+      {
+          "id": "minecraft:poisonous_potato",
+          "required": false
+      },
+      {
+          "id": "minecraft:carrot",
+          "required": false
+      },
+      {
+          "id": "minecraft:golden_carrot",
+          "required": false
+      },
+      {
+          "id": "minecraft:beetroot",
+          "required": false
+      },
+      {
+          "id": "minecraft:beetroot_soup",
+          "required": false
+      },
+      {
+          "id": "minecraft:dried_kelp",
+          "required": false
+      }
+  ]
+}

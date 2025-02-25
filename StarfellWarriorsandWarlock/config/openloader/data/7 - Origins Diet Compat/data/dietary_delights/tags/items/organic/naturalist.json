@@ -1,0 +1,49 @@
+{
+    "replace": false,
+    "values": [
+		{
+			"id": "naturalist:cooked_egg",
+			"required": false
+		},
+        {
+			"id": "naturalist:duck",
+			"required": false
+		},
+        {
+			"id": "naturalist:cooked_duck",
+			"required": false
+		},
+        {
+			"id": "naturalist:venison",
+			"required": false
+		},
+        {
+			"id": "naturalist:cooked_venison",
+			"required": false
+		},
+        {
+			"id": "naturalist:lizard_tail",
+			"required": false
+		},
+        {
+			"id": "naturalist:cooked_lizard_tail",
+			"required": false
+		},
+        {
+			"id": "naturalist:catfish",
+			"required": false
+		},
+        {
+			"id": "naturalist:cooked_catfish",
+			"required": false
+		},
+        {
+			"id": "naturalist:bass",
+			"required": false
+		},
+        {
+			"id": "naturalist:cooked_bass",
+			"required": false
+		}
+    ]
+}

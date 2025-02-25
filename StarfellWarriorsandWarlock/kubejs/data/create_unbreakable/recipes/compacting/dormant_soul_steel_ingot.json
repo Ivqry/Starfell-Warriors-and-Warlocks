@@ -1,0 +1,92 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "runes:soul_stone"
+    },
+    {
+      "item": "runes:soul_stone"
+    },
+    {
+      "item": "runes:soul_stone"
+    },
+    {
+      "item": "runes:soul_stone"
+    },
+    {
+      "item": "runes:soul_stone"
+    },
+    {
+      "item": "runes:soul_stone"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "jewelry:sapphire"
+    },
+    {
+      "item": "jewelry:sapphire"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_unbreakable:philolite"
+    }
+  ]
+}

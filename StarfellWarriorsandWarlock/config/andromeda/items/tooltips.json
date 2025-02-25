@@ -1,0 +1,10 @@
+{
+  "bootstrap": {
+    "enabled": true
+  },
+  "client": {
+    "clock": true,
+    "compass": true,
+    "recoveryCompass": true
+  }
+}

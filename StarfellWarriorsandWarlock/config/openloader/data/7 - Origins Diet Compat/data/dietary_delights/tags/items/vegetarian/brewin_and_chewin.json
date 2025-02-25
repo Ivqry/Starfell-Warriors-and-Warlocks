@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "brewinandchewin:kimchi",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:pickled_pickles",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:vegetable_omelet",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:creamy_onion_soup",
+            "required": false
+        }
+    ]
+}

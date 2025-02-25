@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "kubejs:reinforced_chain_links"
+    },
+    "I": {
+      "item": "kubejs:reinforced_iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "ILI",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "item": "kubejs:reinforced_chainmail_leggings"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 1000
+    },
+    "description": {
+      "text": "Retextures minecraft's music discs to be even, and more up to date with current textures - made by Nöelle"
+    }
+  }
+}

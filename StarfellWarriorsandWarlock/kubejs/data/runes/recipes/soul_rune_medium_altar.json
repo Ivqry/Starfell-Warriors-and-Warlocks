@@ -1,0 +1,13 @@
+{
+  "type": "runes:crafting",
+  "base": {
+    "item": "minecraft:cobbled_deepslate"
+  },
+  "addition": {
+    "item": "minecraft:experience_bottle"
+  },
+  "result": {
+    "count": 16,
+    "item": "runes:soul_stone"
+  }
+}
