@@ -175,7 +175,7 @@
   "tag.spelunkery.jade_ores": "Jade Ores",
   "tag.spelunkery.lead_ores": "Lead Ores",
   "tag.spelunkery.zinc_ores": "Zinc Ores",
-  "tag.spelunkery.silver_ores": "Silver Ores",
+  "tag.spelunkery.silver_ores": "Mythril Ores",
   "tag.spelunkery.slime_food": "Slime Foods",
   "tag.spelunkery.keep_on_death": "Kept on Death Items",
   "tag.spelunkery.anvil_repair_item": "Anvil Repairers",
@@ -239,7 +239,7 @@
   "block.spelunkery.tuff_emerald_ore": "Tuff Emerald Ore",
   "block.spelunkery.tuff_zinc_ore": "Tuff Zinc Ore",
   "block.spelunkery.tuff_lead_ore": "Tuff Lead Ore",
-  "block.spelunkery.tuff_silver_ore": "Tuff Silver Ore",
+  "block.spelunkery.tuff_silver_ore": "Tuff Mythril Ore",
   "block.spelunkery.tuff_jade_ore": "Tuff Jade Ore",
 
   "block.spelunkery.granite_coal_ore": "Granite Coal Ore",
@@ -252,7 +252,7 @@
   "block.spelunkery.granite_emerald_ore": "Granite Emerald Ore",
   "block.spelunkery.granite_zinc_ore": "Granite Zinc Ore",
   "block.spelunkery.granite_lead_ore": "Granite Lead Ore",
-  "block.spelunkery.granite_silver_ore": "Granite Silver Ore",
+  "block.spelunkery.granite_silver_ore": "Granite Mythril Ore",
   "block.spelunkery.granite_jade_ore": "Granite Jade Ore",
 
   "block.spelunkery.andesite_coal_ore": "Andesite Coal Ore",
@@ -264,7 +264,7 @@
   "block.spelunkery.andesite_diamond_ore": "Andesite Diamond Ore",
   "block.spelunkery.andesite_zinc_ore": "Andesite Zinc Ore",
   "block.spelunkery.andesite_lead_ore": "Andesite Lead Ore",
-  "block.spelunkery.andesite_silver_ore": "Andesite Silver Ore",
+  "block.spelunkery.andesite_silver_ore": "Andesite Mythril Ore",
   "block.spelunkery.andesite_jade_ore": "Andesite Jade Ore",
 
   "block.spelunkery.diorite_coal_ore": "Diorite Coal Ore",
@@ -277,7 +277,7 @@
   "block.spelunkery.diorite_emerald_ore": "Diorite Emerald Ore",
   "block.spelunkery.diorite_zinc_ore": "Diorite Zinc Ore",
   "block.spelunkery.diorite_lead_ore": "Diorite Lead Ore",
-  "block.spelunkery.diorite_silver_ore": "Diorite Silver Ore",
+  "block.spelunkery.diorite_silver_ore": "Diorite Mythril Ore",
   "block.spelunkery.diorite_jade_ore": "Diorite Jade Ore",
 
   "item.spelunkery.raw_iron_nugget": "Raw Iron Nugget",
@@ -285,7 +285,7 @@
   "item.spelunkery.raw_gold_nugget": "Raw Gold Nugget",
   "item.spelunkery.raw_zinc_nugget": "Raw Zinc Nugget",
   "item.spelunkery.raw_lead_nugget": "Raw Lead Nugget",
-  "item.spelunkery.raw_silver_nugget": "Raw Silver Nugget",
+  "item.spelunkery.raw_silver_nugget": "Raw Mythril Nugget",
   "item.spelunkery.raw_magnetite_nugget": "Raw Magnetite Nugget",
 
   "item.spelunkery.copper_nugget": "Copper Nugget",

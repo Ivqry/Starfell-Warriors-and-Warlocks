@@ -49,7 +49,11 @@
     "mcdar:beast_boss",
     "enchancement:slide",
     "usefulspyglass:spotter",
-    "usefulspyglass:marking"
+    "usefulspyglass:marking",
+	"fullyenchanced:transport",
+	"fullyenchanced:skates",
+	"fullyenchanced:chamber",
+	"fullyenchanced:slap"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": true,

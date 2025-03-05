@@ -1,0 +1,6 @@
+{
+  "parent": "kubejs:item/big_scythe",
+  "textures": {
+    "layer0": "kubejs:item/soul_scythe"
+  }
+}

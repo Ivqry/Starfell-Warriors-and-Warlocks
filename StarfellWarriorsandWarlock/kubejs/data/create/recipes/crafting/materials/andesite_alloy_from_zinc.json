@@ -3,18 +3,20 @@
   "category": "misc",
   "key": {
     "A": {
-      "item": "minecraft:andesite"
+      "item": "minecraft:cobblestone"
     },
     "B": {
-      "tag": "c:zinc_nuggets"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "BA",
-    "AB"
+    "AAA",
+    "ABA",
+	"AAA"
   ],
   "result": {
-    "item": "create:andesite_alloy"
+    "item": "create:andesite_alloy",
+	"count": 8
   },
   "show_notification": true
 }

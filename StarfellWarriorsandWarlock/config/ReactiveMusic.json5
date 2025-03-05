@@ -4,6 +4,12 @@
 	debugModeEnabled: false,
 	loadedUserSongpack: "",
 	blacklistedDimensions: [],
-	savedHomePositions: {},
+	savedHomePositions: {
+		saved: {
+			field_1352: -694.5,
+			field_1351: 72.5625,
+			field_1350: -454.5
+		}
+	},
 	hasForcedInitialVolume: true
 }

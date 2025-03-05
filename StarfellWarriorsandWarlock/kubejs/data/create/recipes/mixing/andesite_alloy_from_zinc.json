@@ -2,15 +2,37 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:andesite"
+      "item": "minecraft:cobblestone"
     },
     {
-      "tag": "c:zinc_nuggets"
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
     }
   ],
   "results": [
     {
-      "item": "create:andesite_alloy"
+      "item": "create:andesite_alloy",
+	  "count": 8
     }
   ]
 }

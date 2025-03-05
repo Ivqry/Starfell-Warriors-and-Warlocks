@@ -1,0 +1,61 @@
+{
+  "enchantment.fullyenchanced.transport": "Displace",
+  "enchantment.fullyenchanced.slap": "Slap",
+  "enchantment.fullyenchanced.chamber": "Chamber",
+  "enchantment.fullyenchanced.requite": "Requite",
+  "enchantment.fullyenchanced.skates": "Skates",
+  "enchantment.fullyenchanced.unsheathe": "Unsheathe",
+  "enchantment.fullyenchanced.prosper": "Prosper",
+  "enchantment.fullyenchanced.war_cry": "War Cry",
+  "enchantment.fullyenchanced.shriek": "Shriek",
+  "enchantment.fullyenchanced.umbrella": "Umbrella",
+  "enchantment.fullyenchanced.ram": "Ram",
+
+
+  "enchantment.fullyenchanced.transport.desc": "Breaks stone type blocks in a 3x3 area. Excludes ores. Teleports targets randomly on hit",
+  "enchantment.fullyenchanced.slap.desc": "Greatly increases knockback.",
+  "enchantment.fullyenchanced.chamber.desc": "Hitting an targets instantly reloads the crossbow. Normal reload time greatly increased.",
+  "enchantment.fullyenchanced.requite.desc": "Heals user proportional to target's max health upon kill.",
+  "enchantment.fullyenchanced.skates.desc": "Allows the user to glide on ice at high speeds.",
+  "enchantment.fullyenchanced.unsheathe.desc": "Right click to sheathe sword. Release to unsheathe, releasing a chargable shockwave.",
+  "enchantment.fullyenchanced.prosper.desc": "Reveals ores and chests through walls up to 20 blocks away.",
+  "enchantment.fullyenchanced.war_cry.desc": "Grants effects to nearby entities, depending on the song.",
+  "enchantment.fullyenchanced.shriek.desc": "Lets out a sonically charged shriek. Mind the spread.",
+  "enchantment.fullyenchanced.umbrella.desc": "Use shield while falling to slow your fall.",
+  "enchantment.fullyenchanced.ram.desc": "Blocking charges up a ram attack, damaging and knocking away those in your path",
+
+  "item.fullyenchanced.taavbuck": "Taavbuck",
+  "item.fullyenchanced.wallet": "Wallet",
+
+  "item.minecraft.chiseled_bookshelf": "Bookshelf",
+  "item.minecraft.bookshelf": "Decrative Bookshelf",
+  "container.enchanting": "Enchant",
+
+  "tooltip.fullyenchanced.xp_cost": "Soul Cost: %s",
+  "tooltip.fullyenchanced.amethyst_cost": "Amethyst Cost: %s",
+
+  "fullyenchanced.midnightconfig.title": "Fully Enchanced",
+  "fullyenchanced.midnightconfig.category.durability": "Durability",
+  "fullyenchanced.midnightconfig.category.enchantment_balancing": "Enchantments",
+
+
+  "fullyenchanced.midnightconfig.freeAnvils": "No Xp Anvils",
+  "fullyenchanced.midnightconfig.fullyEnchancedTable": "Fully Overhauled Enchanting",
+  "fullyenchanced.midnightconfig.noLapisGeneration": "No Lapis Generation",
+  "fullyenchanced.midnightconfig.skatesIncludesFrostWalker": "Skates Enchantment Includes Frost Walker",
+  "fullyenchanced.midnightconfig.bookshelfRadius": "Bookshelf Proximity to Enhantment Table (radius)",
+  "fullyenchanced.midnightconfig.woodDurability": "Wood Tool Durability",
+  "fullyenchanced.midnightconfig.stoneDurability": "Stone Tool Durability",
+  "fullyenchanced.midnightconfig.ironDurability": "Iron Tool Durability",
+  "fullyenchanced.midnightconfig.goldDurability": "Gold Tool Durability",
+  "fullyenchanced.midnightconfig.diamondDurability": "Diamond Tool Durability",
+  "fullyenchanced.midnightconfig.netheriteDurability": "Netherite Tool Durability",
+  "fullyenchanced.midnightconfig.encantingXpCost": "Enchanting Xp Cost",
+  "fullyenchanced.midnightconfig.enchantingAmethystCost": "Enchanting Amethyst Cost",
+  "fullyenchanced.midnightconfig.potionStackSize": "Potion Stack Size",
+  "fullyenchanced.midnightconfig.shriekDamage": "Shriek Enchantment Damage",
+  "fullyenchanced.midnightconfig.shriekDistance": "Shriek Enchantment Distance",
+  "fullyenchanced.midnightconfig.shriekCooldown": "Shriek Enchantment Cooldown",
+  "fullyenchanced.midnightconfig.shriekSpread": "Shriek Enchantment Sculk Spread"
+
+}

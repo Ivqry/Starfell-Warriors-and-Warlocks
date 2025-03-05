@@ -1,0 +1,21 @@
+{
+  "fullyEnchancedTable": true,
+  "freeAnvils": true,
+  "noLapisGeneration": true,
+  "skatesIncludesFrostWalker": true,
+  "bookshelfRadius": 4,
+  "woodDurability": 100,
+  "stoneDurability": 300,
+  "ironDurability": 700,
+  "goldDurability": 500,
+  "diamondDurability": 2000,
+  "netheriteDurability": 3000,
+  "encantingXpCost": 5,
+  "enchantingAmethystCost": 10,
+  "potionStackSize": 16,
+  "shriekDamage": 12,
+  "shriekDistance": 16,
+  "shriekCooldown": 100,
+  "shriekSpread": 8,
+  "umbrellaslowdown": 0.9
+}

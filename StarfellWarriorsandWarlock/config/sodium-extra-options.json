@@ -16,8 +16,8 @@
     "other": {
       "minecraft:flame": true,
       "minecraft:large_smoke": false,
-      "minecraft:campfire_cosy_smoke": false,
-      "minecraft:campfire_signal_smoke": false
+      "minecraft:campfire_cosy_smoke": true,
+      "minecraft:campfire_signal_smoke": true
     }
   },
   "detail_settings": {
@@ -49,12 +49,12 @@
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "SHADOW",
-    "show_fps": false,
+    "show_fps": true,
     "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
     "use_adaptive_sync": false,
-    "cloud_height": 256,
+    "cloud_height": 255,
     "cloud_distance": 100,
     "toasts": false,
     "advancement_toast": false,

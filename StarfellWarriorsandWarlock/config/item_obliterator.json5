@@ -275,7 +275,20 @@
 	"paladins:netherite_kite_shield",
 	"endermanoverhaul:corrupted_shield",
 	"oreganized:music_disc_structure",
-	"supplementaries:music_disc_heave_ho"
+	"supplementaries:music_disc_heave_ho",
+	"minecraft:lapis_block",
+	"supplementaries:lapis_bricks",
+	"supplementaries:lapis_bricks_stairs",
+	"supplementaries:lapis_bricks_slab",
+	"supplementaries:lapis_bricks_wall",
+	"minecraft:lapis_ore",
+	"minecraft:deepslate_lapis_ore",
+	"spelunkery:andesite_lapis_ore",
+	"spelunkery:diorite_lapis_ore",
+	"spelunkery:granite_lapis_ore",
+	"spelunkery:tuff_lapis_ore",
+	"spelunkery:sandstone_lapis_ore",
+	"minecraft:lapis_lazuli"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

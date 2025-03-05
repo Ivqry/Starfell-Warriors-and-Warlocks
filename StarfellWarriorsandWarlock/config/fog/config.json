@@ -1,20 +1,10 @@
 {
-	"disableMod": false,
-	"disabledDimensions": [
-		"minecraft:the_nether"
-	],
+	"initialFogStart": 0.5,
+	"initialFogEnd": 1.0,
 	"disableRaininessEffect": false,
 	"disableUndergroundFogMultiplier": false,
-	"disableBiomeFogColour": false,
+	"disableBiomeFogColour": true,
 	"disableCloudWhitening": false,
-	"initialFogStart": 0.1,
-	"initialFogEnd": 0.90000004,
-	"raininessTransitionSpeed": 0.005,
-	"undergroundnessTransitionSpeed": 0.005,
-	"fogStartTransitionSpeed": 0.5,
-	"fogEndTransitionSpeed": 0.5,
-	"darknessTransitionSpeed": 0.005,
-	"fogColorTransitionSpeed": 0.025,
-	"startMultiplierTransitionSpeed": 0.007,
-	"endMultiplierTransitionSpeed": 0.007
+	"disableNether": true,
+	"disableMod": false
 }

@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:experience_nugget"
+    },
+	{
+      "item": "create:experience_nugget"
+    },
+	{
+      "item": "create:experience_nugget"
+    },
+	{
+      "item": "minecraft:quartz"
+    },
+	{
+      "item": "minecraft:quartz"
+    },
+	{
+      "item": "minecraft:quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:soul_quartz",
+	  "count": 1
+    }
+  ]
+}

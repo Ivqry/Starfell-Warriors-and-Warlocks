@@ -1,0 +1,6 @@
+{
+  "parent": "fullyenchanced:item/wallet",
+  "textures": {
+    "layer0": "fullyenchanced:item/wallet_filled"
+  }
+}

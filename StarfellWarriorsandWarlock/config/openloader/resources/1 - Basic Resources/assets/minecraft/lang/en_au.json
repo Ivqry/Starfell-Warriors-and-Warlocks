@@ -1,6 +1,7 @@
 {
   "item.minecraft.enchanted_golden_apple": "Enchanted Diamond Apple",
   "item.minecraft.nether_star": "Withered Heart",
+  "biome.minecraft.deep_dark": "Lower Deeps",
   "item.minecraft.shield": "Iron Shield",
   "item.minecraft.wooden_sword": "Training Sword",
   "item.minecraft.stone_sword": "Stone Broadsword",
@@ -9,6 +10,8 @@
   "item.minecraft.diamond_sword": "Diamond Broadsword",
   "item.minecraft.netherite_sword": "Netherite Broadsword",
   "block.minecraft.lantern": "Iron Lantern",
+  "block.minecraft.bookshelf": "Decorative Bookshelf",
+  "block.minecraft.chiseled_bookshelf": "Bookshelf",
   "item.minecraft.iron_boots": "Iron Greaves",
   "item.minecraft.iron_leggings": "Iron Legplates",
   "item.minecraft.iron_chestplate": "Iron Platemail",

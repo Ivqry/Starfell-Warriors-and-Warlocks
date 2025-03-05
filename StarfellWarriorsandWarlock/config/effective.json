@@ -22,7 +22,7 @@
   "fireflyDensity": 0.0,
   "chorusPetalDensity": 1.0,
   "willOWispDensity": 1.0,
-  "eyesInTheDark": "NEVER",
+  "eyesInTheDark": "ALWAYS",
   "improvedFireballs": true,
   "improvedDragonFireballsAndBreath": true,
   "improvedGlowSquidParticles": true,

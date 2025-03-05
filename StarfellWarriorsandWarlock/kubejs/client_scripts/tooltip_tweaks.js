@@ -6,6 +6,7 @@ ItemEvents.tooltip(tooltip => {
   tooltip.add(['friendsandfoes:totem_of_freezing'], "§8Slows enemies around you when close to death")
   tooltip.add(['friendsandfoes:totem_of_illusion'], "§8Creates clones to confuse your enemies when close to death")
   tooltip.add(['minecraft:nether_star'], "§8Although corrupted, The Wither's heart contains\nno physical evil. It is merely a power source...")
+  tooltip.add(['minecraft:bookshelf'], "§8Functionally does nothing.")
   
   tooltip.add(['minecraft:recovery_compass'], "§7An ancient compass capable of tracking down lost souls...")
   tooltip.add(['naturescompass:naturescompass'], "§7An earthen compass capable of finding any habitat...")
@@ -14,6 +15,9 @@ ItemEvents.tooltip(tooltip => {
   tooltip.add(['create_unbreakable:irromolding'], "§7This ancient ingot has the ability to enhance any piece\nof equipment to make it invulnerable to damage...")
   tooltip.add(['create_unbreakable:philolite'], "§7Although yet not awakened, it still contains the lost souls of many...")
   tooltip.add(['create_unbreakable:luminarchy'], "§7They say this mystic substance has the ability to awaken lost souls...")
+  
+  tooltip.add(['kubejs:soul_scythe'], "§7Reap the souls of your victim's cries.\nSouls of The Damned\nGrants 4+ DMG and 40% Speed when cast\nfor 6 seconds, with an 16 second cooldown.")
+
   
 //Candles
   tooltip.add(['bountifulfares:green_tea_candle'], "§7Grants Haste when lit")
@@ -304,6 +308,7 @@ ItemEvents.tooltip(tooltip => {
 	'minecraft:chainmail_chestplate',
 	'minecraft:chainmail_leggings',
 	'minecraft:chainmail_boots',
+	'minecraft:iron_horse_armor',
 	
 	'rogues:warrior_armor_head',
 	'rogues:warrior_armor_chest',
@@ -344,7 +349,7 @@ ItemEvents.tooltip(tooltip => {
 	'minecraft:iron_chestplate',
 	'minecraft:iron_leggings',
 	'minecraft:iron_boots',
-	'minecraft:iron_horse_armor',
+	'minecraft:diamond_horse_armor',
 	
 	'paladins:paladin_armor_head',
 	'paladins:paladin_armor_chest',
@@ -492,6 +497,9 @@ ItemEvents.tooltip(tooltip => {
 	text.remove(1)
   })
   tooltip.addAdvanced('spelunkery:salt', (item, advanced, text) => {
+	text.remove(1)
+  })
+  tooltip.addAdvanced('minecraft:redstone', (item, advanced, text) => {
 	text.remove(1)
   })
 })

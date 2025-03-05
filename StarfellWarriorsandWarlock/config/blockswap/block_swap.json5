@@ -104,6 +104,13 @@ to make editing this file much easier.
 		"bountifulfares:wild_leeks": "farmersdelight:wild_carrots",
 		"spelunkery:rough_cinnabar_block": "minecraft:redstone_block",
 		"create_unbreakable:philolite_block": "minecraft:deepslate",
-		"create_unbreakable:luminarchy_block": "minecraft:deepslate"
+		"create_unbreakable:luminarchy_block": "minecraft:deepslate",
+		"minecraft:lapis_ore": "minecraft:stone",
+		"minecraft:deepslate_lapis_ore": "minecraft:deepslate",
+		"spelunkery:andesite_lapis_ore": "minecraft:andesite",
+		"spelunkery:diorite_lapis_ore": "minecraft:diorite",
+		"spelunkery:granite_lapis_ore": "minecraft:granite",
+		"spelunkery:tuff_lapis_ore": "minecraft:tuff",
+		"spelunkery:sandstone_lapis_ore": "minecraft:sandstone"
 	   	}
 }

@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fullyenchanced:item/wallet"
+  },
+  "overrides": [{
+    "predicate": {
+      "filled": 0.0000001
+    },
+      "model": "fullyenchanced:item/wallet_filled"
+    }
+  ]
+}

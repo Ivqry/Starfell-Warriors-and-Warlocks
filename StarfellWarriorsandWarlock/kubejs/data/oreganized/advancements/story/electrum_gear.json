@@ -1,27 +1,12 @@
 {
   "parent": "oreganized:story/obtain_silver",
   "criteria": {
-    "has_all_electrum_armor": {
+    "waystone": {
       "conditions": {
         "items": [
           {
             "items": [
-              "oreganized:electrum_helmet"
-            ]
-          },
-          {
-            "items": [
-              "oreganized:electrum_chestplate"
-            ]
-          },
-          {
-            "items": [
-              "oreganized:electrum_leggings"
-            ]
-          },
-          {
-            "items": [
-              "oreganized:electrum_boots"
+              "fwaystones:waystone"
             ]
           }
         ]
@@ -37,18 +22,13 @@
     "frame": "challenge",
     "hidden": false,
     "icon": {
-      "item": "oreganized:electrum_chestplate",
-      "nbt": "{Damage:0}"
+      "item": "fwaystones:waystone"
     },
     "show_toast": true,
     "title": {
       "translate": "advancements.story.electrum_gear.title"
     }
   },
-  "requirements": [
-    [
-      "has_all_electrum_armor"
-    ]
-  ],
+  "requirements": [],
   "sends_telemetry_event": true
 }
