@@ -1,0 +1,9 @@
+#Fri Mar 21 19:27:27 CDT 2025
+MobsFlashRed=false
+Reflections=false
+Refractions=false
+TransparentReflections=false
+WaterReflection=false
+shadowMapResolution=1024
+skyReflection=false
+waterTex=false

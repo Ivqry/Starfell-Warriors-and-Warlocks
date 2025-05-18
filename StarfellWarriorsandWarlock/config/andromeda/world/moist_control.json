@@ -1,8 +1,0 @@
-{
-  "bootstrap": {
-    "enabled": true
-  },
-  "game": {
-    "customMoisture": 12
-  }
-}

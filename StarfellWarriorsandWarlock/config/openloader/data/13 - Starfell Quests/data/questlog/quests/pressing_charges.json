@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "create:mechanical_press",
+      "display": {
+        "name": "Obtain a Mechanical Press",
+        "icon": {
+          "item": "create:mechanical_press"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:iron_ingot",
+      "count": 5,
+      "display": {
+        "icon": {
+          "item": "minecraft:iron_ingot"
+        },
+        "name": "5x Iron Ingot",
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "inmis:frayed_backpack",
+      "display": {
+        "name": "1x Frayed Backpack",
+        "icon": {
+          "item": "inmis:frayed_backpack"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Pressing Charges",
+    "description": "Obtain a mechanical press, crafted from a zinc block, simple casing, and a shaft. This can be used to press materials into items you can use in unique recipes. Such as pressing iron ingots into sheets in order to craft iron armor.",
+    "icon": {
+      "item": "create:mechanical_press"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

@@ -11,7 +11,7 @@
 5 : '',
 6 : '',
 7 : '{Count:1b,id:"minecraft:writable_book"}',
-8 : '{Count:1b,id:"minecraft:bundle",tag:{Items:[{Count:1b,id:"kubejs:waystone_key"},{Count:4b,id:"minecraft:potion",tag:{Potion:"minecraft:strong_healing"}},{Count:6b,id:"minecraft:carrot"},{Count:6b,id:"minecraft:apple"},{Count:6b,id:"minecraft:bread"}]}}',
+8 : '{Count:1b,id:"minecraft:bundle",tag:{Items:[{Count:4b,id:"minecraft:potion",tag:{Potion:"minecraft:strong_healing"}},{Count:8b,id:"minecraft:carrot"},{Count:8b,id:"minecraft:apple"},{Count:16b,id:"minecraft:bread"}]}}',
 9 : '',
 10 : '',
 11 : '',

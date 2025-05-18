@@ -1,8 +1,8 @@
 {
-  "item.numismatic-overhaul.bronze_coin": "Bronze Coin",
-  "item.numismatic-overhaul.silver_coin": "Silver Coin",
-  "item.numismatic-overhaul.gold_coin": "Gold Coin",
-  "item.numismatic-overhaul.money_bag": "Money Bag",
+  "item.numismatic-overhaul.bronze_coin": "Bronze Ventar",
+  "item.numismatic-overhaul.silver_coin": "Silver Ventar",
+  "item.numismatic-overhaul.gold_coin": "Gold Ventar",
+  "item.numismatic-overhaul.money_bag": "Ventar Bag",
   "block.numismatic-overhaul.shop": "Shop",
   "block.numismatic-overhaul.inexhaustible_shop": "Inexhaustible Shop",
   "block.numismatic-overhaul.inexhaustible_shop.tooltip": "Creative only - never runs out of stock",

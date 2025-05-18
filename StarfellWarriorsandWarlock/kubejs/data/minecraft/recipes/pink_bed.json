@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "kubejs:pink_fabric"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "###",
+    "XSX"
+  ],
+  "result": {
+    "item": "minecraft:pink_bed"
+  },
+  "show_notification": true
+}

@@ -224,12 +224,15 @@ mode = "fancy"
 				spirit = true
 				bubble_pearl = true
 				windswept_hills_enderman = true
+				warped_pearl = true
+				ender_bullet = true
 
 			[light_sources.settings.entities.create]
 				super_glue = true
 				stationary_contraption = true
 				crafting_blueprint = true
 				contraption = true
+				potato_projectile = true
 
 			[light_sources.settings.entities.sleep_tight]
 				bed_entity = true
@@ -304,4 +307,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.shield_overhaul]
 				shield_bash_entity = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
+
+			[light_sources.settings.entities.snuffles]
+				snuffle = true
 

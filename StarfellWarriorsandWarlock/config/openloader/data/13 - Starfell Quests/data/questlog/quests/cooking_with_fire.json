@@ -1,0 +1,68 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_use",
+      "total": 1,
+      "item": "create:empty_blaze_burner",
+      "display": {
+        "name": "Capture a Blaze",
+        "icon": {
+          "item": "create:blaze_burner"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "jewelry:unique_fire_necklace",
+      "display": {
+        "name": "1x Pendant of Sunfire",
+        "icon": {
+          "item": "jewelry:unique_fire_necklace"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "display": {
+        "name": "1x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:blaze_powder",
+      "count": 6,
+      "display": {
+        "name": "6x Blaze Powder",
+        "icon": {
+          "item": "minecraft:blaze_powder"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Cooking With Fire",
+    "description": "Find a Nether Fortress and capture a Blaze to use in a blaze burner. These can be used for various complex recipes in compacting and mixing. Try baking a blaze cake and feed it to the burner to superheat it. This unlocks further recipes, like netherite.",
+    "icon": {
+      "item": "create:blaze_burner"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

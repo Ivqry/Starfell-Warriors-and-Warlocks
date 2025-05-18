@@ -82,7 +82,7 @@
 	 * Whether to use the batched render system. Batching is faster, but may have
 	 * incompatibilities with shaders or other mods.
 	 */
-	use-batched-renderer: true;
+	use-batched-renderer: false;
 
 	/**
 	 * Whether to have the search bar in the center of the screen, instead of to the
@@ -338,7 +338,7 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.a";
+	favorite: "key.keyboard.l";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that

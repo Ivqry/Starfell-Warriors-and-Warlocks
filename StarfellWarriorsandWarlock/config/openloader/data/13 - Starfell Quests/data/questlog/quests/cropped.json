@@ -1,0 +1,131 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:wheat",
+      "display": {
+        "name": "Obtain Wheat",
+        "icon": {
+          "item": "minecraft:wheat"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:carrot",
+      "display": {
+        "name": "Obtain Carrots",
+        "icon": {
+          "item": "minecraft:carrot"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:potato",
+      "display": {
+        "name": "Obtain Potatos",
+        "icon": {
+          "item": "minecraft:potato"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:beetroot",
+      "display": {
+        "name": "Obtain Beetroots",
+        "icon": {
+          "item": "minecraft:beetroot"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:onion",
+      "display": {
+        "name": "Obtain Onions",
+        "icon": {
+          "item": "farmersdelight:onion"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:cabbage",
+      "display": {
+        "name": "Obtain Cabbage",
+        "icon": {
+          "item": "farmersdelight:cabbage"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:tomato",
+      "display": {
+        "name": "Obtain Tomatos",
+        "icon": {
+          "item": "farmersdelight:tomato"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:rice",
+      "display": {
+        "name": "Obtain Rice",
+        "icon": {
+          "item": "farmersdelight:rice"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:diamond_hoe",
+      "display": {
+        "name": "1x Diamond Hoe",
+        "icon": {
+          "item": "minecraft:diamond_hoe"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "artifacts:rooted_boots",
+      "display": {
+        "icon": {
+          "item": "artifacts:rooted_boots"
+        },
+        "name": "1x Rooted Boots",
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Cropped",
+    "description": "Obtain all types of crops: Wheat, Carrot, Potato, Beetroot, Onion, Tomato, Cabbage, and Rice.",
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    },
+    "icon": {
+      "item": "farmersdelight:wild_carrots"
+    }
+  }
+}

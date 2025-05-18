@@ -1,0 +1,93 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_use",
+      "total": 100,
+      "item": "minecraft:fishing_rod",
+      "display": {
+        "name": "Cast Your Rod 100 Times",
+        "icon": {
+          "item": "minecraft:fishing_rod"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "artifacts:anglers_hat",
+      "display": {
+        "name": "1x Angler's hate",
+        "icon": {
+          "item": "artifacts:anglers_hat"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:angler_pottery_sherd",
+      "display": {
+        "name": "1x Angler Shard",
+        "icon": {
+          "item": "minecraft:angler_pottery_sherd"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:danger_pottery_sherd",
+      "display": {
+        "name": "1x Danger Shard",
+        "icon": {
+          "item": "minecraft:danger_pottery_sherd"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:burn_pottery_sherd",
+      "display": {
+        "icon": {
+          "item": "minecraft:burn_pottery_sherd"
+        },
+        "name": "1x Burn Shard",
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "display": {
+        "name": "1x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Master Angler",
+    "description": "Old Finley cast his rod into the sea 100 times, unlocking the secrets of the deep. Can you do the same and uncover what he left behind?",
+    "icon": {
+      "item": "minecraft:fishing_rod"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

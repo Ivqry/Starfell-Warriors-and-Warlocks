@@ -1,0 +1,20 @@
+{
+  "values": [
+    "kubejs:white_fabric",
+    "kubejs:light_gray_fabric",
+    "kubejs:gray_fabric",
+    "kubejs:black_fabric",
+    "kubejs:magenta_fabric",
+    "kubejs:yellow_fabric",
+    "kubejs:red_fabric",
+    "kubejs:lime_fabric",
+    "kubejs:cyan_fabric",
+    "kubejs:light_blue_fabric",
+    "kubejs:green_fabric",
+    "kubejs:purple_fabric",
+    "kubejs:pink_fabric",
+    "kubejs:blue_fabric",
+    "kubejs:orange_fabric",
+    "kubejs:brown_fabric"
+  ]
+}

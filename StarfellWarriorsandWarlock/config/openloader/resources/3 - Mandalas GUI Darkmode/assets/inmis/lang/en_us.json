@@ -4,7 +4,7 @@
   "ui.inmis.backpack": "Backpack",
 
   "item.inmis.baby_backpack": "Baby Backpack",
-  "item.inmis.ender_pouch": "Ender Pouch",
+  "item.inmis.ender_pouch": "Shadow Pouch",
 
   "item.inmis.frayed_backpack": "Frayed Backpack",
   "item.inmis.plated_backpack": "Plated Backpack",
@@ -12,7 +12,7 @@
   "item.inmis.bejeweled_backpack": "Mythril Backpack",
   "item.inmis.blazing_backpack": "Blazing Backpack",
   "item.inmis.withered_backpack": "Withered Backpack",
-  "item.inmis.endless_backpack": "Endless Backpack",
+  "item.inmis.endless_backpack": "Umbral Backpack",
 
   "inmis.advancement.baby_backpack.title": "Goody Bag",
   "inmis.advancement.baby_backpack.description": "Perfect for party gifts!",

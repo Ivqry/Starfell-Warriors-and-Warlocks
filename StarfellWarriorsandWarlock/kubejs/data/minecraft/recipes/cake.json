@@ -1,37 +1,28 @@
 {
   "type": "create:mixing",
+  "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "minecraft:cocoa_beans"
-    },
-	{
-      "item": "minecraft:cocoa_beans"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:sugar"
+      "fluidTag": "c:milk",
+      "amount": 60750
     },
     {
       "tag": "c:eggs"
     },
     {
-      "tag": "c:milks"
+      "item": "minecraft:sugar"
     },
     {
-      "tag": "c:milks"
+      "item": "minecraft:sugar"
     },
     {
-      "tag": "c:milks"
+      "item": "farmersdelight:wheat_dough"
     }
   ],
   "results": [
     {
-      "item": "minecraft:cake"
+      "item": "minecraft:cake",
+	  "count": 1
     }
   ]
 }

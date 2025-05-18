@@ -1,9 +1,9 @@
 {
   "item.shield.parry": {
     "sounds": [
-      "mob/zombie/metal1",
-      "mob/zombie/metal2",
-      "mob/zombie/metal3"
+      "parry/parry1",
+      "parry/parry2",
+      "parry/parry3"
     ],
     "subtitle": "subtitle.guarding.item.shield.parry"
   },

@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "brewinandchewin:beer",
+      "display": {
+        "name": "Ferment some Beer",
+        "icon": {
+          "item": "brewinandchewin:beer"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "brewinandchewin:flaxen_cheese_wedge",
+      "count": 8,
+      "display": {
+        "name": "8x Flaxen Cheese Wedge",
+        "icon": {
+          "item": "brewinandchewin:flaxen_cheese_wedge"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "artifacts:novelty_drinking_hat",
+      "display": {
+        "name": "1x Novelty Drinking hat",
+        "icon": {
+          "item": "artifacts:novelty_drinking_hat"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "May The Best Dwarf Win",
+    "description": "Brew some beer, fermented in a keg with wheat and water.",
+    "icon": {
+      "item": "brewinandchewin:beer"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

@@ -105,12 +105,8 @@ to make editing this file much easier.
 		"spelunkery:rough_cinnabar_block": "minecraft:redstone_block",
 		"create_unbreakable:philolite_block": "minecraft:deepslate",
 		"create_unbreakable:luminarchy_block": "minecraft:deepslate",
-		"minecraft:lapis_ore": "minecraft:stone",
-		"minecraft:deepslate_lapis_ore": "minecraft:deepslate",
-		"spelunkery:andesite_lapis_ore": "minecraft:andesite",
-		"spelunkery:diorite_lapis_ore": "minecraft:diorite",
-		"spelunkery:granite_lapis_ore": "minecraft:granite",
-		"spelunkery:tuff_lapis_ore": "minecraft:tuff",
-		"spelunkery:sandstone_lapis_ore": "minecraft:sandstone"
+		"ribbits:red_toadstool": "minecraft:red_mushroom_block",
+		"ribbits:toadstool_stem": "minecraft:mushroom_stem",
+		"ribbits:brown_toadstool": "minecraft:brown_mushroom_block"
 	   	}
 }

@@ -1,25 +1,65 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "G": {
-      "item": "minecraft:gold_ingot"
-    },
-    "N": {
-      "item": "minecraft:gold_nugget"
-    },
-    "B": {
-      "item": "minecraft:gold_block"
-    },
-    "A": {
-      "item": "amarite:amarite_block"
-    }
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "amarite:amarite_block"
   },
-  "pattern": [
-    " GN",
-    "GAG",
-    "BG "
+  "loops": 1,
+  "results": [
+    {
+      "item": "amarite:amarite_mirror"
+    }
   ],
-  "result": {
-    "item": "amarite:amarite_mirror"
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "amarite:amarite_block"
+        },
+        {
+          "item": "minecraft:gold_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "amarite:amarite_block"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "amarite:amarite_block"
+        },
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "amarite:amarite_block"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "amarite:amarite_block"
+        },
+        {
+          "item": "minecraft:gold_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "amarite:amarite_block"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "amarite:amarite_block"
   }
 }

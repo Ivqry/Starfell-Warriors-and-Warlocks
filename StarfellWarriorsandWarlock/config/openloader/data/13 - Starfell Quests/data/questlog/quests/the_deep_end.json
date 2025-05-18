@@ -1,0 +1,95 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "total": 1,
+      "entity": "minecraft:elder_guardian",
+      "display": {
+        "name": "Kill an Elder Guardian",
+        "icon": {
+          "item": "minecraft:tide_armor_trim_smithing_template"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:conduit",
+      "display": {
+        "name": "1x Conduit",
+        "icon": {
+          "item": "minecraft:conduit"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "artifacts:flippers",
+      "display": {
+        "name": "1x Flippers",
+        "icon": {
+          "item": "artifacts:flippers"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:tide_armor_trim_smithing_template",
+      "display": {
+        "name": "1x Tide Trim",
+        "icon": {
+          "item": "minecraft:tide_armor_trim_smithing_template"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:wet_sponge",
+      "count": 8,
+      "display": {
+        "name": "8x Wet Sponge",
+        "icon": {
+          "item": "minecraft:wet_sponge"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 4,
+      "display": {
+        "name": "4x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "The Deep End",
+    "description": "Kill an Elder Guardian, the tyrant of the seas. Found in ocean monuments, these prismarine creatures can fatigue your mining status and slow you down. Not to mention shoot lasers at you. However, walls are their weakness, use them to your advantage!",
+    "icon": {
+      "item": "minecraft:tide_armor_trim_smithing_template"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

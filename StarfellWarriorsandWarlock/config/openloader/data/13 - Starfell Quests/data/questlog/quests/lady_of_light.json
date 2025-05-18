@@ -1,0 +1,50 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "jewelry:unique_healing_ring",
+      "display": {
+        "name": "Obtain Anett's Embrace",
+        "icon": {
+          "item": "jewelry:unique_healing_ring"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "jewelry:unique_healing_necklace",
+      "display": {
+        "name": "Obtain Adria's Pendant",
+        "icon": {
+          "item": "jewelry:unique_healing_necklace"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 4,
+      "display": {
+        "name": "4x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Lady of Light",
+    "description": "Obtain the ring and necklace of the paladin, Adria's pendant, and Annet's Embrace. This ancient elven jewelry grants immense healing power and spell haste. Found in rare treasure chests.",
+    "icon": {
+      "item": "jewelry:unique_healing_ring"
+    }
+  }
+}

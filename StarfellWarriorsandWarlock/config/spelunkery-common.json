@@ -29,7 +29,7 @@
     "piglins_give_crying_obsidian": true,
     "dimensional_tears_from_crying_obsidian": true,
     "dimensional_tears_from_respawn_anchor": true,
-    "portal_fluid_ocean": false,
+    "portal_fluid_ocean": true,
     "end_ocean_bucketable": false
   },
   "slimes": {

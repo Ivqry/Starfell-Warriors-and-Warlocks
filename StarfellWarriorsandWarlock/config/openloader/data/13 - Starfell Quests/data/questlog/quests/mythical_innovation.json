@@ -1,0 +1,54 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:enchant",
+      "total": 1,
+      "display": {
+        "icon": {
+          "item": "minecraft:enchanting_table"
+        },
+        "name": "Enchant a piece of equipment"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "friendsandfoes:totem_of_illusion",
+      "display": {
+        "name": "1x Totem of Illusion",
+        "icon": {
+          "item": "friendsandfoes:totem_of_illusion"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "create:experience_nugget",
+      "count": 48,
+      "display": {
+        "name": "48x Nuggets of Souls",
+        "icon": {
+          "item": "create:experience_nugget"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Mythical Innovation",
+    "description": "Enchant a piece of equipment for the first time. To enchant, you must put your corresponding enchanted book in a chiseled bookshelf nearby your enchanting table. You can use amethyst instead of lapis to enchant your equipment.",
+    "icon": {
+      "item": "minecraft:enchanting_table"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:stone_pickaxe",
+      "display": {
+        "icon": {
+          "item": "minecraft:stone_pickaxe"
+        },
+        "name": "Obtain a Stone Pickaxe"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:flint_and_steel",
+      "display": {
+        "name": "1x Flint and Steel",
+        "icon": {
+          "item": "minecraft:flint_and_steel"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "jewelry:iron_ring",
+      "display": {
+        "name": "1x Iron Ring",
+        "icon": {
+          "item": "jewelry:iron_ring"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "The Stone Age",
+    "description": "Obtain a stone pickaxe, crafted from sticks, canvas, and cobblestone.",
+    "icon": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

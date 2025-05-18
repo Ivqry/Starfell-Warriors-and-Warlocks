@@ -1,25 +1,81 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " AA",
-    "GBA",
-    "NG "
-  ],
-  "key": {
-    "N": {
-      "item": "paladins:netherite_claymore"
-    },
-    "G": {
-      "item": "minecraft:gold_block"
-    },
-    "A": {
-      "item": "amarite:amarite_shard"
-    },
-    "B": {
-      "item": "amarite:amarite_block"
-    }
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "paladins:netherite_claymore"
   },
-  "result": {
-    "item": "amarite:amarite_longsword"
+  "loops": 2,
+  "results": [
+    {
+      "item": "amarite:amarite_longsword"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "paladins:netherite_claymore"
+        },
+        {
+          "item": "minecraft:gold_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "paladins:netherite_claymore"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "paladins:netherite_claymore"
+        },
+        {
+          "item": "amarite:amarite_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "paladins:netherite_claymore"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "paladins:netherite_claymore"
+        },
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "paladins:netherite_claymore"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "paladins:netherite_claymore"
+        },
+        {
+          "item": "amarite:amarite_shard"
+        }
+      ],
+      "results": [
+        {
+          "item": "paladins:netherite_claymore"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "paladins:netherite_claymore"
   }
 }

@@ -154,7 +154,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 4
+            "level": 3
           }
         },
         {
@@ -165,7 +165,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 2
+            "level": 3
           }
         },
         {
@@ -250,7 +250,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 4
+            "level": 3
           }
         },
         {
@@ -261,7 +261,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 4
+            "level": 3
           }
         }
       ]
@@ -272,7 +272,7 @@
       },
       "difficulty": {
         "name": "normal",
-        "level": 5
+        "level": 3
       },
       "zones": [
         {
@@ -283,7 +283,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 6
+            "level": 4
           }
         }
       ]

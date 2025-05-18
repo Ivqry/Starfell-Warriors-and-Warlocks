@@ -9,7 +9,7 @@
       "tag": "minecraft:planks"
     },
     "S": {
-      "tag": "c:stone"
+      "item": "minecraft:iron_block"
     }
   },
   "pattern": [
@@ -20,7 +20,7 @@
     " AAA "
   ],
   "result": {
-    "count": 2,
+    "count": 1,
     "item": "create:crushing_wheel"
   }
 }

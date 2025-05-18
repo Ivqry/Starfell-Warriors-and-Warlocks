@@ -1,0 +1,51 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:totem_of_undying",
+      "display": {
+        "name": "Obtain a Totem of Undying",
+        "icon": {
+          "item": "minecraft:totem_of_undying"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "kubejs:mythril_core",
+      "display": {
+        "name": "3x Mythril Cores",
+        "icon": {
+          "item": "kubejs:mythril_core"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:vex_armor_trim_smithing_template",
+      "display": {
+        "name": "1x Vex Trim",
+        "icon": {
+          "item": "minecraft:vex_armor_trim_smithing_template"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "You Should of Stayed Dead",
+    "description": "Obtain a Totem of Undying, ripped out from the hands of an evoker. This magical idol grants the user the power to cheat death when you wear it in your charm slot.",
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:light_blue_wool"
+        },
+        {
+            "item": "minecraft:light_blue_wool"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "kubejs:light_blue_fabric",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:elytra",
+      "display": {
+        "name": "Obtain an Elytra",
+        "icon": {
+          "item": "minecraft:elytra"
+        }
+      }
+    }
+  ],
+  "rewards": [],
+  "display": {
+    "title": "Wings of Legend",
+    "description": "Obtain an Elytra, crafted from Umbrocron's scales, once gave flight to the bravest of adventurers. Now, with the dark tyrant dead, claim the wings of legend and soar where none have before.",
+    "icon": {
+      "item": "minecraft:elytra"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

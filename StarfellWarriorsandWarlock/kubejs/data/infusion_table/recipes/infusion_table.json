@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cdc",
+    "aea",
+    "bbb"
+  ],
+  "key": {
+    "a": {"item": "minecraft:amethyst_shard"},
+    "b": {"item": "minecraft:crying_obsidian"},
+    "c": {"item": "minecraft:polished_deepslate"},
+    "d": {"item": "minecraft:blue_wool"},
+    "e": {"item": "minecraft:gold_ingot"}
+  },
+  "result": {
+    "item": "infusion_table:infusion_table"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "bootstrap": {
-    "enabled": true
-  },
-  "game": {
-    "affectBoneMeal": true,
-    "available": true
-  }
-}

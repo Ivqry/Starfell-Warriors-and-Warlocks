@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:leather_boots"
+        },
+        {
+            "item": "supplementaries:antique_ink"
+        }
+    ],
+    "result": {
+        "item": "vanityslots:familiar_sneakers",
+        "count": 1
+    }
+}

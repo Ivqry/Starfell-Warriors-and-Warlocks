@@ -1,0 +1,52 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_use",
+      "total": 1,
+      "item": "minecraft:enchanted_golden_apple",
+      "display": {
+        "name": "Eat an Enchanted Diamond Apple",
+        "icon": {
+          "item": "minecraft:enchanted_golden_apple"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "display": {
+        "name": "1x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "bountifulfares:hoary_apple_sapling",
+      "count": 4,
+      "display": {
+        "name": "4x Hoary Apple Sapling",
+        "icon": {
+          "item": "bountifulfares:hoary_apple_sapling"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Godlike",
+    "description": "Eat an Enchanted Diamond Apple. You can either find these in chests, or craft one with 8 diamonds.",
+    "icon": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  }
+}

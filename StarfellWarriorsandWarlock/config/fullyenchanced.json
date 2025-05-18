@@ -1,7 +1,7 @@
 {
   "fullyEnchancedTable": true,
   "freeAnvils": true,
-  "noLapisGeneration": true,
+  "noLapisGeneration": false,
   "skatesIncludesFrostWalker": true,
   "bookshelfRadius": 4,
   "woodDurability": 100,

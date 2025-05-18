@@ -3,12 +3,14 @@
 	musicSwitchSpeed2: "SONGPACK_DEFAULT",
 	debugModeEnabled: false,
 	loadedUserSongpack: "",
-	blacklistedDimensions: [],
+	blacklistedDimensions: [
+		"minecraft:the_end"
+	],
 	savedHomePositions: {
 		saved: {
-			field_1352: -694.5,
-			field_1351: 72.5625,
-			field_1350: -454.5
+			field_1352: -397.5,
+			field_1351: 73.5625,
+			field_1350: 252.5
 		}
 	},
 	hasForcedInitialVolume: true

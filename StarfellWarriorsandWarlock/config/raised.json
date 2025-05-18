@@ -1,14 +1,14 @@
 {
   "layers": {
     "hotbar": {
-      "x": 0,
+      "x": 358,
       "y": 2,
-      "position": "BOTTOM",
+      "position": "BOTTOM_RIGHT",
       "sync": "NONE"
     },
     "chat": {
       "x": 0,
-      "y": 0,
+      "y": 25,
       "position": "BOTTOM",
       "sync": "NONE"
     },
@@ -43,9 +43,9 @@
       "sync": "NONE"
     },
     "other": {
-      "x": 0,
-      "y": 0,
-      "position": "BOTTOM",
+      "x": 358,
+      "y": 2,
+      "position": "BOTTOM_RIGHT",
       "sync": "NONE"
     }
   }

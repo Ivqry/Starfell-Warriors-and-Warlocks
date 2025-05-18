@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "total": 1,
+      "entity": "minecraft:piglin_brute",
+      "display": {
+        "name": "Kill a Piglin Brute",
+        "icon": {
+          "item": "minecraft:golden_axe"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "artifacts:golden_hook",
+      "display": {
+        "name": "1x Golden Hook",
+        "icon": {
+          "item": "artifacts:golden_hook"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 2,
+      "display": {
+        "name": "2x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Machines of War",
+    "description": "Find a bastion and kill one of the leaders. These strongholds are home to The Order of The Axe, a dangerous group of pig-like creatures. They will stop at nothing to protect their treasure. But if you do manage to loot their fortress, you may be surprised by what valuables they hold...",
+    "icon": {
+      "item": "minecraft:golden_axe"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

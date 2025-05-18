@@ -1,9 +1,0 @@
-{
-  "bootstrap": {
-    "enabled": false
-  },
-  "game": {
-    "enableAscension": true,
-    "available": true
-  }
-}

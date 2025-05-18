@@ -1,0 +1,54 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 2,
+      "item": "create:crushing_wheel",
+      "display": {
+        "name": "Obtain a pair of Crushing Wheels",
+        "icon": {
+          "item": "create:crushing_wheel"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "artifacts:steadfast_spikes",
+      "display": {
+        "icon": {
+          "item": "artifacts:steadfast_spikes"
+        },
+        "name": "1x Steadfast Spikes",
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "display": {
+        "name": "1x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Crush On You",
+    "description": "Obtain a set of crushing wheels, mechanically crafted from simply alloy and iron. These wheels can be used to crush and process various materials into useful items and ingredients. Quite useful and necessary for progression.",
+    "icon": {
+      "item": "create:crushing_wheel"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

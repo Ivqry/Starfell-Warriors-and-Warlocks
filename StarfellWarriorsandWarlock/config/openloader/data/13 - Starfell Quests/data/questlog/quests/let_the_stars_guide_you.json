@@ -1,0 +1,38 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:visit_dimension",
+      "total": 1,
+      "dimension": "minecraft:overworld",
+      "display": {
+        "icon": {
+          "item": "supplementaries:globe"
+        },
+        "name": "Start your Journey"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "kubejs:waystone_key",
+      "display": {
+        "name": "1x Waystone Key",
+        "icon": {
+          "item": "kubejs:waystone_key"
+        },
+        "sound": {
+          "claimed": "entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Let The Stars Guide You",
+    "description": "Starfell is semi-difficult, medieval, RPG pack. This pack is fairly slow paced and quite integrated. You'll need to choose between 9 classes, those being: Rogue, Warrior, Warlock, Paladin, Priest, Frozen Champion, Vampire, Blightbringer, or Archer. Each of these has their own perks and spells. These quests will guide you through progression. The journey is here, make it yours!",
+    "icon": {
+      "item": "supplementaries:globe"
+    }
+  }
+}

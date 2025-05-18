@@ -1,0 +1,100 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:cake",
+      "display": {
+        "icon": {
+          "item": "minecraft:cake"
+        },
+        "name": "Bake a Sweet Berry Cake"
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:sweet_berry_cheesecake",
+      "display": {
+        "name": "Bake a Sweet Berry Cheesecake",
+        "icon": {
+          "item": "farmersdelight:sweet_berry_cheesecake"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:apple_pie",
+      "display": {
+        "name": "Bake an Apple Pie",
+        "icon": {
+          "item": "farmersdelight:apple_pie"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:chocolate_pie",
+      "display": {
+        "name": "Bake a Chocolate Pie",
+        "icon": {
+          "item": "farmersdelight:chocolate_pie"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_use",
+      "total": 1,
+      "item": "bountifulfares:artisan_bread",
+      "display": {
+        "name": "Bake a loaf of Artisan Bread",
+        "icon": {
+          "item": "bountifulfares:artisan_bread"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "bountifulfares:red_jack_o_straw",
+      "count": 2,
+      "display": {
+        "name": "2x Red Jack o' Straw",
+        "icon": {
+          "item": "bountifulfares:red_jack_o_straw"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "bountifulfares:lapisberry_seeds",
+      "count": 8,
+      "display": {
+        "name": "8x Starfell Berry Seed",
+        "icon": {
+          "item": "bountifulfares:lapisberry_seeds"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Master Baker",
+    "description": "Bake some goods.",
+    "icon": {
+      "item": "minecraft:cake"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

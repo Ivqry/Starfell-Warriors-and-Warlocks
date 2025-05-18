@@ -1,8 +1,0 @@
-{
-  "bootstrap": {
-    "enabled": false
-  },
-  "game": {
-    "divergenceModifier": 0.2
-  }
-}

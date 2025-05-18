@@ -1,20 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "P": {
+  "type": "create:item_application",
+  "ingredients": [
+    {
       "item": "create:mechanical_piston"
     },
-    "S": {
-      "tag": "c:slimeballs"
+    {
+      "item": "minecraft:slime_ball"
     }
-  },
-  "pattern": [
-    "S",
-    "P"
   ],
-  "result": {
-    "item": "create:sticky_mechanical_piston"
-  },
-  "show_notification": true
+  "results": [
+    {
+      "item": "create:sticky_mechanical_piston"
+    }
+  ]
 }

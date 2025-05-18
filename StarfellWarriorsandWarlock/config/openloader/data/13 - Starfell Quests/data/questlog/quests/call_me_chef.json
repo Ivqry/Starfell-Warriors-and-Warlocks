@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:cooking_pot",
+      "display": {
+        "name": "Obtain a Cooking Pot",
+        "icon": {
+          "item": "farmersdelight:cooking_pot"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "farmersdelight:cooked_rice",
+      "count": 8,
+      "display": {
+        "name": "8x Cooked rice",
+        "icon": {
+          "item": "farmersdelight:cooked_rice"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "farmersdelight:skillet",
+      "display": {
+        "name": "1x Skillet",
+        "icon": {
+          "item": "farmersdelight:skillet"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Call Me Chef",
+    "description": "Obtain a cooking pot, this block can be used to cook complex meals to solve all of your hunger problems. To activate one, put it over a campfire or on top of a stove.",
+    "icon": {
+      "item": "farmersdelight:cooking_pot"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

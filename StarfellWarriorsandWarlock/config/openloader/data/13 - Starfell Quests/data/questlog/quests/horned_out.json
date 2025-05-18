@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:enchant",
+      "total": 1,
+      "item": "minecraft:goat_horn",
+      "display": {
+        "name": "Enchant a Goat Horn",
+        "icon": {
+          "item": "minecraft:goat_horn"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "farmersdelight:mutton_wrap",
+      "count": 12,
+      "display": {
+        "name": "12x Mutton Wraps",
+        "icon": {
+          "item": "farmersdelight:mutton_wrap"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "display": {
+        "name": "1x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Horned Out",
+    "description": "Enchant a goat horn. Either with \"War Cry\" to give you positive effects depending on your song, or \"Shriek\" to send out a sonic boom dealing damage.",
+    "icon": {
+      "item": "minecraft:goat_horn"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

@@ -16,8 +16,7 @@
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "spelunkery:portal_fluid_bottle",
-      "nbt": "{Damage:0}"
+      "item": "spelunkery:portal_fluid_bottle"
     },
     "show_toast": true,
     "title": {

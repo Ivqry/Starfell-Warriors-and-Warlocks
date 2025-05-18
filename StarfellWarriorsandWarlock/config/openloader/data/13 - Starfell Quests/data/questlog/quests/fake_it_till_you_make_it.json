@@ -1,0 +1,56 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "total": 1,
+      "entity": "artifacts:mimic",
+      "display": {
+        "name": "Kill a Mimic",
+        "icon": {
+          "item": "artifacts:mimic_spawn_egg"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "kubejs:waystone_key",
+      "count": 2,
+      "display": {
+        "name": "2x Waystone Keys",
+        "icon": {
+          "item": "kubejs:waystone_key"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:silver_coin",
+      "count": 35,
+      "display": {
+        "name": "35x Silver Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:silver_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Fake It Till You Make It",
+    "description": "Legends speak of Mimics, creatures that disguise themselves as treasure chests, waiting for the unwary to open them. Defeat one, and end the deception that lurks in the shadows of forgotten dungeons.",
+    "icon": {
+      "item": "artifacts:mimic_spawn_egg"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

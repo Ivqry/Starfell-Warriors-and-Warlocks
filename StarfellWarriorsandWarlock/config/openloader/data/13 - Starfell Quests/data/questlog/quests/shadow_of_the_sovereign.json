@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:ender_eye",
+      "display": {
+        "name": "Obtain an Eye of Shadow",
+        "icon": {
+          "item": "minecraft:ender_eye"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:ender_chest",
+      "display": {
+        "name": "1x Shadow Chest",
+        "icon": {
+          "item": "minecraft:ender_chest"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:silver_coin",
+      "count": 50,
+      "display": {
+        "name": "50x Silver Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:silver_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Shadow of The Sovereign",
+    "description": "Obtain an Eye of Shadow, made from echo shards, shadow pearls, and blaze powder. These eye can guide you to an ancient structure deep underground. They say a great power resides in the lower levels, I wonder where its located...",
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

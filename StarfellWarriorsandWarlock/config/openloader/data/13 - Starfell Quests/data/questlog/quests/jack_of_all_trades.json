@@ -1,0 +1,70 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "numismatic-overhaul:gold_coin",
+      "display": {
+        "name": "Obtain 10 Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "jewelry:sapphire",
+      "count": 3,
+      "display": {
+        "name": "3x Sapphire",
+        "icon": {
+          "item": "jewelry:sapphire"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "jewelry:jade",
+      "count": 3,
+      "display": {
+        "name": "3x Jade",
+        "icon": {
+          "item": "jewelry:jade"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "jewelry:ruby",
+      "count": 3,
+      "display": {
+        "name": "3x Ruby",
+        "icon": {
+          "item": "jewelry:ruby"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Jack of All Trades",
+    "description": "Obtain 10 gold ventar. Make sure to have them in your inventory.",
+    "icon": {
+      "item": "numismatic-overhaul:gold_coin"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

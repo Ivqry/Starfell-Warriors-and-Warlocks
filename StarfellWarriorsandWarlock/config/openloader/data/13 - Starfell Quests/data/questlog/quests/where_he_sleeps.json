@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:visit_biome",
+      "total": 1,
+      "biome": "minecraft:deep_dark",
+      "display": {
+        "name": "Visit The lower Deeps",
+        "icon": {
+          "item": "minecraft:sculk_catalyst"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "death_knights:unholy_dk_necklace",
+      "display": {
+        "name": "1x Echoes of The Damned",
+        "icon": {
+          "item": "death_knights:unholy_dk_necklace"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:disc_fragment_5",
+      "count": 4,
+      "display": {
+        "name": "4x Disc Fragments",
+        "icon": {
+          "item": "minecraft:disc_fragment_5"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Where He Sleeps",
+    "description": "Visit the Lower Deeps. This place is home to a horror beyond our comprehension, id advise you stay away from the shriekers... However, if you do decide to stay, there are many hidden treasures...",
+    "icon": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

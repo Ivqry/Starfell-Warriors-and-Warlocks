@@ -1,0 +1,110 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "runes:arcane_stone",
+      "display": {
+        "name": "Obtain Arcane Rune",
+        "icon": {
+          "item": "runes:arcane_stone"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "runes:fire_stone",
+      "display": {
+        "name": "Obtain Fire Rune",
+        "icon": {
+          "item": "runes:fire_stone"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "runes:frost_stone",
+      "display": {
+        "name": "Obtain Frost Rune",
+        "icon": {
+          "item": "runes:frost_stone"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "runes:healing_stone",
+      "display": {
+        "name": "Obtain Healing Rune",
+        "icon": {
+          "item": "runes:healing_stone"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "death_knights:blood_stone",
+      "display": {
+        "name": "Obtain Blood Rune",
+        "icon": {
+          "item": "death_knights:blood_stone"
+        }
+      }
+    },
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "death_knights:unholy_stone",
+      "display": {
+        "name": "Obtain Unholy Rune",
+        "icon": {
+          "item": "death_knights:unholy_stone"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "death_knights:runecarved_stone",
+      "count": 3,
+      "display": {
+        "name": "3x Runecarved Stone",
+        "icon": {
+          "item": "death_knights:runecarved_stone"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "jewelry:unique_arcane_necklace",
+      "display": {
+        "name": "1x Amulet of Unfettered Magic",
+        "icon": {
+          "item": "jewelry:unique_arcane_necklace"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.player.levelup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Runes of Power",
+    "description": "Obtain all runes. Runes are the form of ammunition for spells, each rune has their own element. Runes can be crafted in a crafting table, or in a rune-crafting table for more cost efficient output.",
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    },
+    "icon": {
+      "item": "runes:crafting_altar"
+    }
+  }
+}

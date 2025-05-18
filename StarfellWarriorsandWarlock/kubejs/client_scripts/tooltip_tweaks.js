@@ -5,7 +5,6 @@ ItemEvents.tooltip(tooltip => {
   tooltip.add(['minecraft:totem_of_undying'], "§8Brings you back to life upon use")
   tooltip.add(['friendsandfoes:totem_of_freezing'], "§8Slows enemies around you when close to death")
   tooltip.add(['friendsandfoes:totem_of_illusion'], "§8Creates clones to confuse your enemies when close to death")
-  tooltip.add(['minecraft:nether_star'], "§8Although corrupted, The Wither's heart contains\nno physical evil. It is merely a power source...")
   tooltip.add(['minecraft:bookshelf'], "§8Functionally does nothing.")
   
   tooltip.add(['minecraft:recovery_compass'], "§7An ancient compass capable of tracking down lost souls...")
@@ -501,5 +500,11 @@ ItemEvents.tooltip(tooltip => {
   })
   tooltip.addAdvanced('minecraft:redstone', (item, advanced, text) => {
 	text.remove(1)
+  })
+  tooltip.addAdvanced('spelunkery:magentic_compass', (item, advanced, text) => {
+	text.remove(1)
+	text.remove(2)
+	text.remove(3)
+	text.remove(4)
   })
 })

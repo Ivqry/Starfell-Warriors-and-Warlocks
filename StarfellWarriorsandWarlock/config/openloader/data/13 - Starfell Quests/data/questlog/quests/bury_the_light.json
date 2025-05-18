@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "amarite:amarite_longsword",
+      "display": {
+        "name": "Forge an Amarite Greatsword",
+        "icon": {
+          "item": "amarite:amarite_longsword"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "amarite:amarite_crown",
+      "display": {
+        "name": "1x Amarite Crown",
+        "icon": {
+          "item": "amarite:amarite_crown"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 2,
+      "display": {
+        "name": "2x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Bury The Light",
+    "description": "Forge an Amarite Greatsword, one of the strongest weapons you can create. This blade allows for unique movement and magical abilities, along with immense damage potential.",
+    "icon": {
+      "item": "amarite:amarite_longsword"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

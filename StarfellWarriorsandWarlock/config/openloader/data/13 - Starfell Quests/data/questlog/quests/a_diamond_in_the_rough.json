@@ -1,0 +1,56 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "spelunkery:rough_diamond",
+      "display": {
+        "name": "Obtain a Rough Diamond",
+        "icon": {
+          "item": "spelunkery:rough_diamond"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "kubejs:reinforced_iron_ingot",
+      "count": 6,
+      "display": {
+        "name": "6x Reinforced Iron Ingot",
+        "icon": {
+          "item": "kubejs:reinforced_iron_ingot"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:silver_coin",
+      "count": 15,
+      "display": {
+        "name": "15x Silver Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:silver_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "A Diamond In The Rough",
+    "description": "Obtain a rough diamond from mining diamond ore. This can be turned into a regular diamond by sanding it down with sandpaper in your offhand.",
+    "icon": {
+      "item": "spelunkery:rough_diamond"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

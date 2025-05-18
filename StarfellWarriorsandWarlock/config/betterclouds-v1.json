@@ -7,7 +7,7 @@
 	"yRange": 64.0,
 	"yOffset": 0.0,
 	"sparsity": 0.0,
-	"spacing": 5.25,
+	"spacing": 3.5,
 	"sizeXZ": 16.0,
 	"sizeY": 8.0,
 	"travelSpeed": 0.03,
@@ -37,11 +37,11 @@
 			"sunrise_end_time": 1163,
 			"sunset_start_time": 10837,
 			"sunset_end_time": 12785,
-			"day_brightness": 1.0,
+			"day_brightness": 0.95,
 			"night_brightness": 1.0,
 			"saturation": 1.0,
-			"opacity": 0.2,
-			"opacity_factor": 1.0,
+			"opacity": 0.1,
+			"opacity_factor": 0.88,
 			"opacity_exponent": 1.5,
 			"tint_red": 1.0,
 			"tint_green": 1.0,
@@ -269,7 +269,7 @@
 			"world_curvature_size": 0
 		}
 	],
-	"lastTelemetryVersion": 3,
+	"lastTelemetryVersion": 0,
 	"gpuIncompatibleMessageEnabled": true,
 	"enabledDimensions": [
 		"minecraft:overworld"

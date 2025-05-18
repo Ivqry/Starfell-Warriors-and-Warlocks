@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "W/W",
+        "/ /"
+    ],
+    "key": {
+        "#": {
+            "item": "farmersdelight:canvas"
+        },
+        "W": {
+            "item": "create:white_sail"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vc_gliders:paraglider_wood",
+        "count": 1
+    }
+}

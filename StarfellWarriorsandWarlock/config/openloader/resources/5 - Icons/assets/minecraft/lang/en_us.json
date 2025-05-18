@@ -14,14 +14,14 @@
 // Options
 	"options.fov":						"\uDB80\uDC08 FOV",
 	"options.online":					"\uDB80\uDC09 Online...",
-	"options.skinCustomisation":		"\uDB80\uDC0A Skin Customization...", 
+	"options.skinCustomisation":		" ", 
 	"options.sounds":					"\uDB80\uDC0B Music & Sounds...",  
 	"options.video":					"\uDB80\uDC0C Video Settings...", 
 	"options.controls":					"\uDB80\uDC0D Controls...",  
-	"options.language":					"\uDB80\uDC0E Language...",
-	"options.chat.title":				"\uDB80\uDC0F Chat Settings...",  
+	"options.language":					"\uDB80\uDC0E",
+	"options.chat.title":				"\uDB80\uDC0F",  
 	"options.resourcepack":				"\uDB80\uDC10 Resource Packs...",
-	"options.accessibility.title":		"\uDB80\uDC11 Accessibility Settings...",
+	"options.accessibility.title":		"\uDB80\uDC11",
 	"options.telemetry":				"\uDB80\uDC12 Telemetry Data...",
 	"options.credits_and_attribution":	"\uDB80\uDC13 Credits & Attribution...",
   

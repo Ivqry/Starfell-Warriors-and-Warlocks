@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:visit_dimension",
+      "total": 1,
+      "dimension": "minecraft:the_nether",
+      "display": {
+        "icon": {
+          "item": "spelunkery:portal_fluid_bottle"
+        },
+        "name": "Visit The Nether"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 2,
+      "display": {
+        "name": "2x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "stunningstatues:blaze_statue",
+      "display": {
+        "name": "1x Blaze Statue",
+        "icon": {
+          "item": "stunningstatues:blaze_statue"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Delved Too Deep",
+    "description": "Visit the Nether by lighting a portal made out of an obsidian frame and powered by a bottle of Dimensional Tears, drained from crying obsidian. This place is very dangerous, make sure to bring at least T2 Spells and lots of defenses...",
+    "icon": {
+      "item": "spelunkery:portal_fluid_bottle"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "farmersdelight:canvas",
+      "display": {
+        "icon": {
+          "item": "farmersdelight:canvas"
+        },
+        "name": "Obtain a piece of Canvas"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:bundle",
+      "display": {
+        "icon": {
+          "item": "minecraft:bundle"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        },
+        "name": "1x Bundle"
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:saddle",
+      "display": {
+        "name": "1x Saddle",
+        "icon": {
+          "item": "minecraft:saddle"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:string",
+      "count": 4,
+      "display": {
+        "name": "4x String",
+        "icon": {
+          "item": "minecraft:string"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "The World Is Your Canvas",
+    "description": "Obtain a piece of canvas. Crafted from 4x straw from cutting grass with a knife.",
+    "icon": {
+      "item": "farmersdelight:canvas"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

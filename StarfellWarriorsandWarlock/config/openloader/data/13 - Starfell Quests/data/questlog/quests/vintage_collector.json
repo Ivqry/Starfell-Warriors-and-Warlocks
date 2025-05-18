@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "aa4-atlas:antique_atlas",
+      "display": {
+        "name": "Obtain an Antique Atlas",
+        "icon": {
+          "item": "aa4-atlas:antique_atlas"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "horse_whistle:horse_whistle_item",
+      "display": {
+        "name": "1x Horse Whistle",
+        "icon": {
+          "item": "horse_whistle:horse_whistle_item"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:silver_coin",
+      "count": 10,
+      "display": {
+        "name": "10x Silver Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:silver_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Vintage Collector",
+    "description": "Obtain an Antique Atlas, this book functions a world map to track places you've gone. Crafted from a compass, antique ink, map, and book.",
+    "icon": {
+      "item": "aa4-atlas:antique_atlas"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

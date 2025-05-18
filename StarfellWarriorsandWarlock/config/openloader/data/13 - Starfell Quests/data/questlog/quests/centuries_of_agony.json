@@ -1,0 +1,83 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "total": 1,
+      "entity": "minecraft:ender_dragon",
+      "display": {
+        "name": "Kill Umbrocron",
+        "icon": {
+          "item": "minecraft:dragon_egg"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "fwaystones:abyss_watcher",
+      "count": 16,
+      "display": {
+        "name": "16x Abyss Watchers",
+        "icon": {
+          "item": "fwaystones:abyss_watcher"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "artifacts:chorus_totem",
+      "display": {
+        "name": "1x Chorus Totem",
+        "icon": {
+          "item": "artifacts:chorus_totem"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:end_crystal",
+      "count": 4,
+      "display": {
+        "name": "4x Shadow Crystals",
+        "icon": {
+          "item": "minecraft:end_crystal"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 8,
+      "display": {
+        "name": "8x Gold Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Centuries of Agony",
+    "description": "Kill Umbrocron, the tyrant that rules over the end, and free your lost friends.",
+    "icon": {
+      "item": "minecraft:dragon_egg"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

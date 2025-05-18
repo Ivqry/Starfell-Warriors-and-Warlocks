@@ -1,0 +1,54 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "oreganized:silver_ingot",
+      "display": {
+        "icon": {
+          "item": "oreganized:silver_ingot"
+        },
+        "name": "Obtain a Mythril Ingot"
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "oreganized:silver_mirror",
+      "display": {
+        "name": "1x Mythril Mirror",
+        "icon": {
+          "item": "oreganized:silver_mirror"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "artifacts:digging_claws",
+      "display": {
+        "name": "1x Digging Claws",
+        "icon": {
+          "item": "artifacts:digging_claws"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Here's A Pretty Thing",
+    "description": "Obtain Mythril. As light as a feather, and as hard as dragon scales, this magical metal can be combined with diamonds and grant the ability to travel at impossible speeds.",
+    "icon": {
+      "item": "oreganized:silver_ingot"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

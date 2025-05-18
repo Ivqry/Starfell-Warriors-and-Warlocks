@@ -7,4 +7,3 @@ brokerUrl = "https://broker.e4mc.link/getBestRelay"
 relayHost = "test.e4mc.link"
 # default: 25575
 relayPort = 25575
-

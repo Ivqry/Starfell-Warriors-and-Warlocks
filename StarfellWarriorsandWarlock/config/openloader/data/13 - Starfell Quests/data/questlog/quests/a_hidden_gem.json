@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "#jewelry:gems",
+      "display": {
+        "name": "Mine a Deepslate Gem Vein",
+        "icon": {
+          "item": "jewelry:deepslate_gem_vein"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "kubejs:mythril_core",
+      "display": {
+        "name": "1x Mythril Core",
+        "icon": {
+          "item": "kubejs:mythril_core"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:silver_coin",
+      "count": 35,
+      "display": {
+        "name": "35x Silver Ventar",
+        "icon": {
+          "item": "numismatic-overhaul:silver_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "A Hidden Gem",
+    "description": "Break a Gem Vein and obtain a gem from deep in the caves. They're used for crafting jewelry to boost your stats, like HP or Attack Damage.",
+    "icon": {
+      "item": "jewelry:deepslate_gem_vein"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

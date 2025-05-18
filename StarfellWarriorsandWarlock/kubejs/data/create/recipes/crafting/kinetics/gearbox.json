@@ -9,6 +9,7 @@
         }
     ],
     "result": {
-        "item": "create:gearbox"
+        "item": "create:gearbox",
+        "count": 1
     }
 }

@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:visit_dimension",
+      "total": 1,
+      "dimension": "minecraft:the_end",
+      "display": {
+        "name": "Complete the Portal",
+        "icon": {
+          "item": "minecraft:end_portal_frame"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:recovery_compass",
+      "display": {
+        "name": "1x Mystic's Compass",
+        "icon": {
+          "item": "minecraft:recovery_compass"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "numismatic-overhaul:gold_coin",
+      "count": 5,
+      "display": {
+        "name": "5x Gold Coins",
+        "icon": {
+          "item": "numismatic-overhaul:gold_coin"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "When The Guardians Are Dead",
+    "description": "Complete the portal found deep underground and jump in it. Be aware of dangerous creatures, this place is quite treacherous...",
+    "icon": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

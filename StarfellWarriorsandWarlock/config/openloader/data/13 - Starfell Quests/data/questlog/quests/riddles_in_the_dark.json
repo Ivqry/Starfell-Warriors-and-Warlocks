@@ -1,0 +1,55 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "minecraft:trident",
+      "display": {
+        "name": "Obtain a Whispering Trident",
+        "icon": {
+          "item": "minecraft:trident"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:diamond",
+      "count": 3,
+      "display": {
+        "name": "3x Diamond",
+        "icon": {
+          "item": "minecraft:diamond"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.experience_orb.pickup"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "minecraft:tide_armor_trim_smithing_template",
+      "display": {
+        "name": "1x Tide Trim",
+        "icon": {
+          "item": "minecraft:tide_armor_trim_smithing_template"
+        },
+        "sound": {
+          "claimed": "minecraft:entity.item.pickup"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Riddles In The Dark",
+    "description": "Obtain a Whispering Trident, a mystical weapon found deep in the ocean which has immense magical potential. I wonder what can happen if I put it in an enchanting table...",
+    "icon": {
+      "item": "minecraft:trident"
+    },
+    "sound": {
+      "completed": "minecraft:entity.player.levelup"
+    }
+  }
+}

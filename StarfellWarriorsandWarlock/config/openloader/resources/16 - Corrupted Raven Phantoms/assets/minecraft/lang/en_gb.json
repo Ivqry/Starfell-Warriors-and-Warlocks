@@ -1,0 +1,12 @@
+{
+  "advancements.adventure.two_birds_one_arrow.description": "Kill two Corrupted Ravens with a piercing Arrow",
+  "entity.minecraft.phantom": "Corrupted Raven",
+  "gamerule.doInsomnia": "Spawn Corrupted Raven",
+  "item.minecraft.phantom_membrane": "Corrupted Raven Feather",
+  "item.minecraft.phantom_spawn_egg": "Corrupted Raven Spawn Egg",
+   "subtitles.entity.phantom.bite": "Corrupted Raven bites",
+  "subtitles.entity.phantom.death": "Corrupted Raven dies",
+  "subtitles.entity.phantom.flap": "Corrupted Raven flaps",
+  "subtitles.entity.phantom.hurt": "Corrupted Raven hurts",
+  "subtitles.entity.phantom.swoop": "Corrupted Raven swoops"
+}

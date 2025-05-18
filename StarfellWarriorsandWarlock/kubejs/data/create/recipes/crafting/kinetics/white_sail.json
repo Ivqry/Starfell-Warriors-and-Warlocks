@@ -1,24 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "A": {
-      "item": "create:andesite_alloy"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/W",
+        "W/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "tag": "kubejs:fabric"
+        }
     },
-    "S": {
-      "tag": "c:wooden_rods"
-    },
-    "W": {
-      "tag": "minecraft:wool"
+    "result": {
+        "item": "create:white_sail",
+        "count": 4
     }
-  },
-  "pattern": [
-    "WS",
-    "SA"
-  ],
-  "result": {
-    "count": 2,
-    "item": "create:white_sail"
-  },
-  "show_notification": true
 }
